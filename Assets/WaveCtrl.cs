@@ -17,6 +17,8 @@ public class WaveCtrl : MonoBehaviour {
 	{
 		if (coll.tag == "ARROW_ENEMY") {
 			Destroy(coll.gameObject);
+
+
 		}
 	}
 }

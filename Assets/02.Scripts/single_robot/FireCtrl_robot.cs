@@ -22,7 +22,6 @@ public class FireCtrl_robot : MonoBehaviour {
 	public float quickCool=10.0f;
 	
 	private GameMgr _gameMgr;
-	private markerCtrl _markerCtrl;
 	
 	private float space = 0.0f;
 	private PlayerCtrl_robot playerCtrl;
@@ -38,7 +37,6 @@ public class FireCtrl_robot : MonoBehaviour {
 	void Start(){
 		time = Time.time;
 		_gameMgr = GameObject.Find ("GameManager").GetComponent<GameMgr>();
-		_markerCtrl = GameObject.Find ("marker").GetComponent<markerCtrl> ();
 		tr = GetComponent<Transform> ();
 		playerCtrl = GetComponent<PlayerCtrl_robot> ();
 		skillBool1 = true;
@@ -117,13 +115,6 @@ public class FireCtrl_robot : MonoBehaviour {
 			playerCtrl.moveSpeed = playerCtrl.dashSpeed;
 			if(GetComponent<TrailRenderer>()==null)
 				gameObject.AddComponent<TrailRenderer>().material=playerCtrl.trail;
-			if(_markerCtrl.markerState==true)
-			{
-				SetSpecial();
-			}
-			else{
-				SetFail();
-			}
 		}
 		
 	}
@@ -154,17 +145,6 @@ public class FireCtrl_robot : MonoBehaviour {
 			StartCoroutine (this.CreateWave ());
 			//specialsound 
 			StartCoroutine (this.PlaySfx(spfireSfx));
-			
-			if(_markerCtrl.markerState==true)
-			{
-				playerCtrl.animeSword ();
-				
-				
-				SetSpecial();
-			}
-			else{
-				SetFail();
-			}
 		}
 	}
 	private	void S2Fire(){
