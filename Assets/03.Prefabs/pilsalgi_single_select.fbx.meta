@@ -1,0 +1,5452 @@
+fileFormatVersion: 2
+guid: ead84c72c9bb0497a9eead8bd8854e51
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger01
+    100016: Bip001 L Finger0Nub
+    100018: Bip001 L Finger1
+    100020: Bip001 L Finger11
+    100022: Bip001 L Finger1Nub
+    100024: Bip001 L Finger2
+    100026: Bip001 L Finger21
+    100028: Bip001 L Finger2Nub
+    100030: Bip001 L Foot
+    100032: Bip001 L Forearm
+    100034: Bip001 L Hand
+    100036: Bip001 L Thigh
+    100038: Bip001 L Toe0
+    100040: Bip001 L Toe0Nub
+    100042: Bip001 L UpperArm
+    100044: Bip001 Neck
+    100046: Bip001 Pelvis
+    100048: Bip001 R Calf
+    100050: Bip001 R Clavicle
+    100052: Bip001 R Finger0
+    100054: Bip001 R Finger01
+    100056: Bip001 R Finger0Nub
+    100058: Bip001 R Finger1
+    100060: Bip001 R Finger11
+    100062: Bip001 R Finger1Nub
+    100064: Bip001 R Finger2
+    100066: Bip001 R Finger21
+    100068: Bip001 R Finger2Nub
+    100070: Bip001 R Foot
+    100072: Bip001 R Forearm
+    100074: Bip001 R Hand
+    100076: Bip001 R Thigh
+    100078: Bip001 R Toe0
+    100080: Bip001 R Toe0Nub
+    100082: Bip001 R UpperArm
+    100084: Bip001 Spine
+    100086: Bip001 Spine1
+    100088: curve1
+    100090: group
+    100092: group1
+    100094: group12
+    100096: group14
+    100098: group15
+    100100: group16
+    100102: group17
+    100104: group19
+    100106: group2
+    100108: group20
+    100110: group21
+    100112: group22
+    100114: group24
+    100116: group25
+    100118: group26
+    100120: group27
+    100122: group28
+    100124: group29
+    100126: group30
+    100128: group31
+    100130: group32
+    100132: group33
+    100134: group33 1
+    100136: group33 2
+    100138: group33 3
+    100140: group34
+    100142: group34 1
+    100144: group35
+    100146: group35 1
+    100148: group36
+    100150: group37
+    100152: group38
+    100154: group39
+    100156: group40
+    100158: group41
+    100160: group42
+    100162: group45
+    100164: group46
+    100166: group5
+    100168: group5 1
+    100170: group50
+    100172: group51
+    100174: group53
+    100176: group54
+    100178: group55
+    100180: group56
+    100182: group59
+    100184: group59 1
+    100186: group6
+    100188: group6 1
+    100190: group6 2
+    100192: group60
+    100194: group61
+    100196: group62
+    100198: group65
+    100200: group66
+    100202: group7
+    100204: gunGood
+    100206: pasted__Bip001
+    100208: pasted__Bip001 Pelvis
+    100210: pasted__pCube200
+    100212: pasted__pCube204
+    100214: pasted__pCube205
+    100216: pasted__pCube210
+    100218: pasted__pCube211
+    100220: pasted__pCube212
+    100222: pasted__pCube213
+    100224: pasted__pCube214
+    100226: pasted__pCube215
+    100228: pasted__pCube216
+    100230: pasted__pCylinder108
+    100232: pasted__pCylinder109
+    100234: pasted__pCylinder110
+    100236: pasted__pCylinder111
+    100238: pasted__pCylinder116
+    100240: pasted__player_root
+    100242: pasted__polySurface2051
+    100244: pasted__polySurface2052
+    100246: pasted__polySurface2053
+    100248: pasted__polySurface2054
+    100250: pasted__polySurface2055
+    100252: pasted__polySurface2056
+    100254: pasted__polySurface2057
+    100256: pasted__polySurface2058
+    100258: pasted__polySurface2059
+    100260: pasted__polySurface2060
+    100262: pasted__polySurface2061
+    100264: pasted__polySurface2062
+    100266: pasted__polySurface2063
+    100268: pasted__polySurface2064
+    100270: pasted__polySurface2066
+    100272: pasted__polySurface2067
+    100274: pasted__polySurface2068
+    100276: pasted__polySurface2072
+    100278: pasted__polySurface2074
+    100280: pasted__polySurface2075
+    100282: pasted__polySurface2076
+    100284: pasted__polySurface2077
+    100286: pasted__polySurface2078
+    100288: pasted__polySurface2371
+    100290: pasted__polySurface2372
+    100292: pasted__polySurface2373
+    100294: pasted__pPipe1
+    100296: pasted__sword1
+    100298: pasted__SWORDS
+    100300: pCube1
+    100302: pCube10
+    100304: pCube11
+    100306: pCube12
+    100308: pCube13
+    100310: pCube14
+    100312: pCube15
+    100314: pCube16
+    100316: pCube17
+    100318: pCube18
+    100320: pCube19
+    100322: pCube192
+    100324: pCube193
+    100326: pCube194
+    100328: pCube195
+    100330: pCube196
+    100332: pCube197
+    100334: pCube2
+    100336: pCube20
+    100338: pCube200
+    100340: pCube204
+    100342: pCube205
+    100344: pCube21
+    100346: pCube210
+    100348: pCube211
+    100350: pCube212
+    100352: pCube213
+    100354: pCube214
+    100356: pCube215
+    100358: pCube216
+    100360: pCube217
+    100362: pCube218
+    100364: pCube219
+    100366: pCube22
+    100368: pCube220
+    100370: pCube221
+    100372: pCube222
+    100374: pCube223
+    100376: pCube224
+    100378: pCube225
+    100380: pCube226
+    100382: pCube227
+    100384: pCube228
+    100386: pCube229
+    100388: pCube23
+    100390: pCube230
+    100392: pCube231
+    100394: pCube232
+    100396: pCube233
+    100398: pCube234
+    100400: pCube235
+    100402: pCube236
+    100404: pCube237
+    100406: pCube238
+    100408: pCube239
+    100410: pCube24
+    100412: pCube240
+    100414: pCube241
+    100416: pCube242
+    100418: pCube243
+    100420: pCube244
+    100422: pCube245
+    100424: pCube246
+    100426: pCube247
+    100428: pCube248
+    100430: pCube249
+    100432: pCube25
+    100434: pCube250
+    100436: pCube251
+    100438: pCube252
+    100440: pCube26
+    100442: pCube27
+    100444: pCube28
+    100446: pCube29
+    100448: pCube3
+    100450: pCube30
+    100452: pCube4
+    100454: pCube5
+    100456: pCube6
+    100458: pCube7
+    100460: pCube8
+    100462: pCube9
+    100464: pCylinder1
+    100466: pCylinder10
+    100468: pCylinder108
+    100470: pCylinder109
+    100472: pCylinder11
+    100474: pCylinder110
+    100476: pCylinder111
+    100478: pCylinder112
+    100480: pCylinder113
+    100482: pCylinder115
+    100484: pCylinder116
+    100486: pCylinder117
+    100488: pCylinder118
+    100490: pCylinder119
+    100492: pCylinder12
+    100494: pCylinder120
+    100496: pCylinder121
+    100498: pCylinder13
+    100500: pCylinder14
+    100502: pCylinder15
+    100504: pCylinder16
+    100506: pCylinder17
+    100508: pCylinder18
+    100510: pCylinder19
+    100512: pCylinder2
+    100514: pCylinder20
+    100516: pCylinder21
+    100518: pCylinder23
+    100520: pCylinder27
+    100522: pCylinder28
+    100524: pCylinder29
+    100526: pCylinder3
+    100528: pCylinder30
+    100530: pCylinder31
+    100532: pCylinder33
+    100534: pCylinder34
+    100536: pCylinder35
+    100538: pCylinder36
+    100540: pCylinder4
+    100542: pCylinder5
+    100544: pCylinder6
+    100546: pCylinder7
+    100548: pCylinder9
+    100550: //RootNode
+    100552: player_root
+    100554: polySurface1
+    100556: polySurface1104
+    100558: polySurface1106
+    100560: polySurface1107
+    100562: polySurface1108
+    100564: polySurface1109
+    100566: polySurface1110
+    100568: polySurface1111
+    100570: polySurface1112
+    100572: polySurface1113
+    100574: polySurface1114
+    100576: polySurface1115
+    100578: polySurface1116
+    100580: polySurface1117
+    100582: polySurface1118
+    100584: polySurface1119
+    100586: polySurface1120
+    100588: polySurface1121
+    100590: polySurface1122
+    100592: polySurface1123
+    100594: polySurface1124
+    100596: polySurface1125
+    100598: polySurface1126
+    100600: polySurface1127
+    100602: polySurface1128
+    100604: polySurface1129
+    100606: polySurface1130
+    100608: polySurface1131
+    100610: polySurface1132
+    100612: polySurface1133
+    100614: polySurface1134
+    100616: polySurface1135
+    100618: polySurface1136
+    100620: polySurface1137
+    100622: polySurface1138
+    100624: polySurface1139
+    100626: polySurface1140
+    100628: polySurface1141
+    100630: polySurface1142
+    100632: polySurface1143
+    100634: polySurface1145
+    100636: polySurface1147
+    100638: polySurface1148
+    100640: polySurface1149
+    100642: polySurface1150
+    100644: polySurface1151
+    100646: polySurface1152
+    100648: polySurface1153
+    100650: polySurface1154
+    100652: polySurface1155
+    100654: polySurface1156
+    100656: polySurface1157
+    100658: polySurface1158
+    100660: polySurface1159
+    100662: polySurface1160
+    100664: polySurface1161
+    100666: polySurface1162
+    100668: polySurface1163
+    100670: polySurface1164
+    100672: polySurface1165
+    100674: polySurface1166
+    100676: polySurface1167
+    100678: polySurface1168
+    100680: polySurface1169
+    100682: polySurface1170
+    100684: polySurface1171
+    100686: polySurface1172
+    100688: polySurface1173
+    100690: polySurface1174
+    100692: polySurface1175
+    100694: polySurface1176
+    100696: polySurface1177
+    100698: polySurface1178
+    100700: polySurface1179
+    100702: polySurface1180
+    100704: polySurface1181
+    100706: polySurface1182
+    100708: polySurface1183
+    100710: polySurface1184
+    100712: polySurface1185
+    100714: polySurface1186
+    100716: polySurface1187
+    100718: polySurface1188
+    100720: polySurface1191
+    100722: polySurface1192
+    100724: polySurface1193
+    100726: polySurface1214
+    100728: polySurface1215
+    100730: polySurface1217
+    100732: polySurface1218
+    100734: polySurface1219
+    100736: polySurface1220
+    100738: polySurface1221
+    100740: polySurface1222
+    100742: polySurface166
+    100744: polySurface1867
+    100746: polySurface1868
+    100748: polySurface1869
+    100750: polySurface1870
+    100752: polySurface1871
+    100754: polySurface1872
+    100756: polySurface1914
+    100758: polySurface1915
+    100760: polySurface1916
+    100762: polySurface1917
+    100764: polySurface1984
+    100766: polySurface1986
+    100768: polySurface1987
+    100770: polySurface2
+    100772: polySurface2051
+    100774: polySurface2052
+    100776: polySurface2053
+    100778: polySurface2054
+    100780: polySurface2055
+    100782: polySurface2056
+    100784: polySurface2057
+    100786: polySurface2058
+    100788: polySurface2059
+    100790: polySurface2060
+    100792: polySurface2061
+    100794: polySurface2062
+    100796: polySurface2063
+    100798: polySurface2064
+    100800: polySurface2066
+    100802: polySurface2067
+    100804: polySurface2068
+    100806: polySurface2072
+    100808: polySurface2074
+    100810: polySurface2075
+    100812: polySurface2076
+    100814: polySurface2077
+    100816: polySurface2078
+    100818: polySurface2079
+    100820: polySurface2099
+    100822: polySurface2100
+    100824: polySurface2101
+    100826: polySurface2102
+    100828: polySurface2106
+    100830: polySurface2108
+    100832: polySurface2109
+    100834: polySurface2110
+    100836: polySurface2111
+    100838: polySurface2112
+    100840: polySurface2113
+    100842: polySurface2114
+    100844: polySurface2117
+    100846: polySurface2118
+    100848: polySurface2119
+    100850: polySurface2120
+    100852: polySurface2121
+    100854: polySurface2122
+    100856: polySurface2123
+    100858: polySurface2124
+    100860: polySurface2125
+    100862: polySurface2126
+    100864: polySurface2127
+    100866: polySurface2133
+    100868: polySurface2134
+    100870: polySurface2135
+    100872: polySurface2136
+    100874: polySurface2137
+    100876: polySurface2138
+    100878: polySurface2139
+    100880: polySurface2140
+    100882: polySurface2141
+    100884: polySurface2142
+    100886: polySurface2143
+    100888: polySurface2144
+    100890: polySurface2145
+    100892: polySurface2146
+    100894: polySurface2147
+    100896: polySurface2148
+    100898: polySurface2149
+    100900: polySurface2150
+    100902: polySurface2151
+    100904: polySurface2152
+    100906: polySurface2153
+    100908: polySurface2154
+    100910: polySurface2155
+    100912: polySurface2156
+    100914: polySurface2157
+    100916: polySurface2158
+    100918: polySurface2159
+    100920: polySurface2160
+    100922: polySurface2161
+    100924: polySurface2162
+    100926: polySurface2163
+    100928: polySurface2164
+    100930: polySurface2165
+    100932: polySurface2166
+    100934: polySurface2168
+    100936: polySurface2169
+    100938: polySurface2170
+    100940: polySurface2171
+    100942: polySurface2172
+    100944: polySurface2176
+    100946: polySurface2177
+    100948: polySurface2178
+    100950: polySurface2179
+    100952: polySurface2180
+    100954: polySurface2181
+    100956: polySurface2182
+    100958: polySurface2183
+    100960: polySurface2184
+    100962: polySurface2185
+    100964: polySurface2186
+    100966: polySurface2189
+    100968: polySurface2190
+    100970: polySurface2191
+    100972: polySurface2192
+    100974: polySurface2193
+    100976: polySurface2194
+    100978: polySurface2195
+    100980: polySurface2196
+    100982: polySurface2197
+    100984: polySurface2198
+    100986: polySurface2199
+    100988: polySurface2200
+    100990: polySurface2201
+    100992: polySurface2202
+    100994: polySurface2203
+    100996: polySurface2204
+    100998: polySurface2205
+    101000: polySurface2206
+    101002: polySurface2207
+    101004: polySurface2208
+    101006: polySurface2209
+    101008: polySurface2210
+    101010: polySurface2211
+    101012: polySurface2212
+    101014: polySurface2213
+    101016: polySurface2214
+    101018: polySurface2215
+    101020: polySurface2216
+    101022: polySurface2217
+    101024: polySurface2218
+    101026: polySurface2219
+    101028: polySurface2220
+    101030: polySurface2221
+    101032: polySurface2222
+    101034: polySurface2223
+    101036: polySurface2224
+    101038: polySurface2225
+    101040: polySurface2226
+    101042: polySurface2227
+    101044: polySurface2228
+    101046: polySurface2229
+    101048: polySurface2230
+    101050: polySurface2231
+    101052: polySurface2232
+    101054: polySurface2233
+    101056: polySurface2234
+    101058: polySurface2235
+    101060: polySurface2236
+    101062: polySurface2237
+    101064: polySurface2238
+    101066: polySurface2239
+    101068: polySurface2240
+    101070: polySurface2241
+    101072: polySurface2247
+    101074: polySurface2248
+    101076: polySurface2251
+    101078: polySurface2252
+    101080: polySurface2253
+    101082: polySurface2254
+    101084: polySurface2256
+    101086: polySurface2257
+    101088: polySurface2258
+    101090: polySurface2259
+    101092: polySurface2260
+    101094: polySurface2261
+    101096: polySurface2262
+    101098: polySurface2263
+    101100: polySurface2264
+    101102: polySurface2265
+    101104: polySurface2266
+    101106: polySurface2267
+    101108: polySurface2268
+    101110: polySurface2269
+    101112: polySurface2270
+    101114: polySurface2271
+    101116: polySurface2272
+    101118: polySurface2273
+    101120: polySurface2274
+    101122: polySurface2275
+    101124: polySurface2276
+    101126: polySurface2277
+    101128: polySurface2278
+    101130: polySurface2279
+    101132: polySurface2280
+    101134: polySurface2281
+    101136: polySurface2282
+    101138: polySurface2283
+    101140: polySurface2284
+    101142: polySurface2285
+    101144: polySurface2286
+    101146: polySurface2287
+    101148: polySurface2288
+    101150: polySurface2289
+    101152: polySurface2290
+    101154: polySurface2291
+    101156: polySurface2292
+    101158: polySurface2293
+    101160: polySurface2294
+    101162: polySurface2295
+    101164: polySurface2296
+    101166: polySurface2297
+    101168: polySurface2298
+    101170: polySurface2299
+    101172: polySurface2300
+    101174: polySurface2301
+    101176: polySurface2302
+    101178: polySurface2303
+    101180: polySurface2304
+    101182: polySurface2305
+    101184: polySurface2306
+    101186: polySurface2307
+    101188: polySurface2308
+    101190: polySurface2309
+    101192: polySurface2310
+    101194: polySurface2311
+    101196: polySurface2312
+    101198: polySurface2313
+    101200: polySurface2314
+    101202: polySurface2315
+    101204: polySurface2316
+    101206: polySurface2317
+    101208: polySurface2318
+    101210: polySurface2319
+    101212: polySurface2320
+    101214: polySurface2321
+    101216: polySurface2322
+    101218: polySurface2323
+    101220: polySurface2324
+    101222: polySurface2325
+    101224: polySurface2326
+    101226: polySurface2327
+    101228: polySurface2328
+    101230: polySurface2329
+    101232: polySurface2330
+    101234: polySurface2331
+    101236: polySurface2332
+    101238: polySurface2333
+    101240: polySurface2334
+    101242: polySurface2335
+    101244: polySurface2336
+    101246: polySurface2337
+    101248: polySurface2338
+    101250: polySurface2339
+    101252: polySurface2340
+    101254: polySurface2341
+    101256: polySurface2342
+    101258: polySurface2343
+    101260: polySurface2344
+    101262: polySurface2345
+    101264: polySurface2346
+    101266: polySurface2347
+    101268: polySurface2348
+    101270: polySurface2349
+    101272: polySurface2350
+    101274: polySurface2351
+    101276: polySurface2352
+    101278: polySurface2353
+    101280: polySurface2354
+    101282: polySurface2355
+    101284: polySurface2356
+    101286: polySurface2357
+    101288: polySurface2358
+    101290: polySurface2359
+    101292: polySurface2360
+    101294: polySurface2361
+    101296: polySurface2362
+    101298: polySurface2363
+    101300: polySurface2365
+    101302: polySurface2366
+    101304: polySurface2367
+    101306: polySurface2367 1
+    101308: polySurface2368
+    101310: polySurface2368 1
+    101312: polySurface2369
+    101314: polySurface2369 1
+    101316: polySurface2370
+    101318: polySurface2371
+    101320: polySurface2372
+    101322: polySurface2373
+    101324: polySurface2374
+    101326: polySurface2472
+    101328: polySurface2475
+    101330: polySurface2476
+    101332: polySurface2477
+    101334: polySurface2478
+    101336: polySurface2480
+    101338: polySurface2488
+    101340: polySurface2490
+    101342: polySurface2500
+    101344: polySurface2501
+    101346: polySurface2503
+    101348: polySurface2504
+    101350: polySurface2510
+    101352: polySurface2555
+    101354: polySurface2560
+    101356: polySurface2562
+    101358: polySurface2565
+    101360: polySurface2566
+    101362: polySurface2567
+    101364: polySurface2568
+    101366: polySurface2572
+    101368: polySurface2573
+    101370: polySurface2574
+    101372: polySurface2575
+    101374: polySurface2576
+    101376: polySurface2577
+    101378: polySurface2578
+    101380: polySurface2579
+    101382: polySurface2580
+    101384: polySurface2581
+    101386: polySurface2582
+    101388: polySurface2583
+    101390: polySurface2584
+    101392: polySurface2585
+    101394: polySurface2586
+    101396: polySurface2587
+    101398: polySurface2588
+    101400: polySurface2589
+    101402: polySurface2590
+    101404: polySurface2591
+    101406: polySurface2592
+    101408: polySurface2593
+    101410: polySurface2594
+    101412: polySurface2595
+    101414: polySurface2596
+    101416: polySurface2597
+    101418: polySurface2598
+    101420: polySurface2599
+    101422: polySurface2600
+    101424: polySurface2601
+    101426: polySurface2602
+    101428: polySurface2603
+    101430: polySurface2604
+    101432: polySurface2605
+    101434: polySurface2606
+    101436: polySurface2607
+    101438: polySurface2608
+    101440: polySurface2609
+    101442: polySurface2610
+    101444: polySurface2611
+    101446: polySurface2612
+    101448: polySurface2613
+    101450: polySurface2614
+    101452: polySurface2615
+    101454: polySurface2616
+    101456: polySurface2617
+    101458: polySurface2618
+    101460: polySurface2619
+    101462: polySurface2620
+    101464: polySurface2621
+    101466: polySurface2622
+    101468: polySurface2623
+    101470: polySurface2624
+    101472: polySurface2625
+    101474: polySurface2626
+    101476: polySurface2627
+    101478: polySurface2628
+    101480: polySurface2629
+    101482: polySurface2630
+    101484: polySurface2631
+    101486: polySurface2632
+    101488: polySurface2633
+    101490: polySurface2634
+    101492: polySurface2635
+    101494: polySurface2636
+    101496: polySurface3
+    101498: polySurface4
+    101500: polySurface5
+    101502: polySurface5 1
+    101504: polySurface6
+    101506: polySurface7
+    101508: polySurface707
+    101510: polySurface708
+    101512: polySurface759
+    101514: polySurface764
+    101516: polySurface764 1
+    101518: polySurface766
+    101520: polySurface798
+    101522: polySurface8
+    101524: polySurface9
+    101526: pPipe1
+    101528: pPipe2
+    101530: pPlane10
+    101532: pPlane11
+    101534: pPlane12
+    101536: pPlane13
+    101538: pPlane14
+    101540: pPlane15
+    101542: pPlane16
+    101544: pPlane17
+    101546: pPlane18
+    101548: pPlane19
+    101550: pPlane2
+    101552: pPlane20
+    101554: pPlane21
+    101556: pPlane22
+    101558: pPlane23
+    101560: pPlane24
+    101562: pPlane25
+    101564: pPlane26
+    101566: pPlane27
+    101568: pPlane28
+    101570: pPlane29
+    101572: pPlane3
+    101574: pPlane30
+    101576: pPlane31
+    101578: pPlane32
+    101580: pPlane33
+    101582: pPlane34
+    101584: pPlane35
+    101586: pPlane36
+    101588: pPlane37
+    101590: pPlane4
+    101592: pPlane5
+    101594: pPlane6
+    101596: pPlane7
+    101598: pPlane8
+    101600: pPlane9
+    101602: pSphere1
+    101604: pSphere2
+    101606: ROBOT_GROUP
+    101608: sword1
+    101610: sword2
+    101612: SWORDS
+    101614: tail
+    101616: transform1
+    101618: transform10
+    101620: transform1061
+    101622: transform1062
+    101624: transform1063
+    101626: transform1064
+    101628: transform1065
+    101630: transform1066
+    101632: transform1067
+    101634: transform1068
+    101636: transform1069
+    101638: transform1070
+    101640: transform1071
+    101642: transform1072
+    101644: transform1073
+    101646: transform1074
+    101648: transform1075
+    101650: transform11
+    101652: transform1195
+    101654: transform1196
+    101656: transform1197
+    101658: transform1198
+    101660: transform1199
+    101662: transform12
+    101664: transform1200
+    101666: transform1201
+    101668: transform1202
+    101670: transform1203
+    101672: transform1204
+    101674: transform1205
+    101676: transform1206
+    101678: transform1207
+    101680: transform1208
+    101682: transform1209
+    101684: transform1210
+    101686: transform1211
+    101688: transform1212
+    101690: transform1213
+    101692: transform1214
+    101694: transform1215
+    101696: transform1216
+    101698: transform1217
+    101700: transform1218
+    101702: transform1219
+    101704: transform1220
+    101706: transform1221
+    101708: transform1222
+    101710: transform1223
+    101712: transform1224
+    101714: transform1225
+    101716: transform1226
+    101718: transform1227
+    101720: transform1228
+    101722: transform1229
+    101724: transform1230
+    101726: transform1231
+    101728: transform1232
+    101730: transform1233
+    101732: transform1234
+    101734: transform1235
+    101736: transform1236
+    101738: transform1237
+    101740: transform1238
+    101742: transform1239
+    101744: transform1240
+    101746: transform1241
+    101748: transform1242
+    101750: transform1243
+    101752: transform1244
+    101754: transform1245
+    101756: transform1246
+    101758: transform1247
+    101760: transform1248
+    101762: transform1249
+    101764: transform1250
+    101766: transform1251
+    101768: transform1252
+    101770: transform1253
+    101772: transform1254
+    101774: transform1255
+    101776: transform1256
+    101778: transform1257
+    101780: transform1258
+    101782: transform1259
+    101784: transform1260
+    101786: transform1261
+    101788: transform1262
+    101790: transform1263
+    101792: transform1264
+    101794: transform1265
+    101796: transform1266
+    101798: transform1267
+    101800: transform1268
+    101802: transform1269
+    101804: transform1270
+    101806: transform1271
+    101808: transform1272
+    101810: transform1273
+    101812: transform1274
+    101814: transform1275
+    101816: transform1276
+    101818: transform1277
+    101820: transform1278
+    101822: transform1279
+    101824: transform1280
+    101826: transform1281
+    101828: transform1282
+    101830: transform1283
+    101832: transform1284
+    101834: transform1285
+    101836: transform1286
+    101838: transform1297
+    101840: transform1298
+    101842: transform1299
+    101844: transform13
+    101846: transform1300
+    101848: transform1301
+    101850: transform1302
+    101852: transform1303
+    101854: transform1304
+    101856: transform1305
+    101858: transform1306
+    101860: transform1307
+    101862: transform1308
+    101864: transform1309
+    101866: transform1310
+    101868: transform1311
+    101870: transform1312
+    101872: transform1313
+    101874: transform1314
+    101876: transform1315
+    101878: transform1316
+    101880: transform1317
+    101882: transform1318
+    101884: transform1319
+    101886: transform1320
+    101888: transform1321
+    101890: transform1322
+    101892: transform1323
+    101894: transform1324
+    101896: transform1325
+    101898: transform1326
+    101900: transform1327
+    101902: transform1328
+    101904: transform1329
+    101906: transform1330
+    101908: transform1331
+    101910: transform1332
+    101912: transform1333
+    101914: transform1334
+    101916: transform1335
+    101918: transform1336
+    101920: transform1337
+    101922: transform1338
+    101924: transform1339
+    101926: transform1340
+    101928: transform1341
+    101930: transform1342
+    101932: transform1343
+    101934: transform1344
+    101936: transform1345
+    101938: transform1346
+    101940: transform1347
+    101942: transform1348
+    101944: transform14
+    101946: transform15
+    101948: transform16
+    101950: transform17
+    101952: transform18
+    101954: transform19
+    101956: transform2
+    101958: transform20
+    101960: transform21
+    101962: transform3
+    101964: transform4
+    101966: transform5
+    101968: transform6
+    101970: transform7
+    101972: transform8
+    101974: transform9
+    101976: Trim_Char_A_1_1
+    101978: Trim_Char_A_1_2
+    101980: Trim_Char_B_1_1
+    101982: Trim_Char_B_1_2
+    101984: Trim_Char_E_1_1
+    101986: Trim_Char_E_1_2
+    101988: Trim_Char_E_2_1
+    101990: Trim_Char_E_2_2
+    101992: Trim_Char_L_1_1
+    101994: Trim_Char_L_1_2
+    101996: Trim_Char_O_1_1
+    101998: Trim_Char_O_1_2
+    102000: Trim_Char_R_1_1
+    102002: Trim_Char_R_1_2
+    102004: Trim_Char_V_1_1
+    102006: Trim_Char_V_1_2
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger01
+    400016: Bip001 L Finger0Nub
+    400018: Bip001 L Finger1
+    400020: Bip001 L Finger11
+    400022: Bip001 L Finger1Nub
+    400024: Bip001 L Finger2
+    400026: Bip001 L Finger21
+    400028: Bip001 L Finger2Nub
+    400030: Bip001 L Foot
+    400032: Bip001 L Forearm
+    400034: Bip001 L Hand
+    400036: Bip001 L Thigh
+    400038: Bip001 L Toe0
+    400040: Bip001 L Toe0Nub
+    400042: Bip001 L UpperArm
+    400044: Bip001 Neck
+    400046: Bip001 Pelvis
+    400048: Bip001 R Calf
+    400050: Bip001 R Clavicle
+    400052: Bip001 R Finger0
+    400054: Bip001 R Finger01
+    400056: Bip001 R Finger0Nub
+    400058: Bip001 R Finger1
+    400060: Bip001 R Finger11
+    400062: Bip001 R Finger1Nub
+    400064: Bip001 R Finger2
+    400066: Bip001 R Finger21
+    400068: Bip001 R Finger2Nub
+    400070: Bip001 R Foot
+    400072: Bip001 R Forearm
+    400074: Bip001 R Hand
+    400076: Bip001 R Thigh
+    400078: Bip001 R Toe0
+    400080: Bip001 R Toe0Nub
+    400082: Bip001 R UpperArm
+    400084: Bip001 Spine
+    400086: Bip001 Spine1
+    400088: curve1
+    400090: group
+    400092: group1
+    400094: group12
+    400096: group14
+    400098: group15
+    400100: group16
+    400102: group17
+    400104: group19
+    400106: group2
+    400108: group20
+    400110: group21
+    400112: group22
+    400114: group24
+    400116: group25
+    400118: group26
+    400120: group27
+    400122: group28
+    400124: group29
+    400126: group30
+    400128: group31
+    400130: group32
+    400132: group33
+    400134: group33 1
+    400136: group33 2
+    400138: group33 3
+    400140: group34
+    400142: group34 1
+    400144: group35
+    400146: group35 1
+    400148: group36
+    400150: group37
+    400152: group38
+    400154: group39
+    400156: group40
+    400158: group41
+    400160: group42
+    400162: group45
+    400164: group46
+    400166: group5
+    400168: group5 1
+    400170: group50
+    400172: group51
+    400174: group53
+    400176: group54
+    400178: group55
+    400180: group56
+    400182: group59
+    400184: group59 1
+    400186: group6
+    400188: group6 1
+    400190: group6 2
+    400192: group60
+    400194: group61
+    400196: group62
+    400198: group65
+    400200: group66
+    400202: group7
+    400204: gunGood
+    400206: pasted__Bip001
+    400208: pasted__Bip001 Pelvis
+    400210: pasted__pCube200
+    400212: pasted__pCube204
+    400214: pasted__pCube205
+    400216: pasted__pCube210
+    400218: pasted__pCube211
+    400220: pasted__pCube212
+    400222: pasted__pCube213
+    400224: pasted__pCube214
+    400226: pasted__pCube215
+    400228: pasted__pCube216
+    400230: pasted__pCylinder108
+    400232: pasted__pCylinder109
+    400234: pasted__pCylinder110
+    400236: pasted__pCylinder111
+    400238: pasted__pCylinder116
+    400240: pasted__player_root
+    400242: pasted__polySurface2051
+    400244: pasted__polySurface2052
+    400246: pasted__polySurface2053
+    400248: pasted__polySurface2054
+    400250: pasted__polySurface2055
+    400252: pasted__polySurface2056
+    400254: pasted__polySurface2057
+    400256: pasted__polySurface2058
+    400258: pasted__polySurface2059
+    400260: pasted__polySurface2060
+    400262: pasted__polySurface2061
+    400264: pasted__polySurface2062
+    400266: pasted__polySurface2063
+    400268: pasted__polySurface2064
+    400270: pasted__polySurface2066
+    400272: pasted__polySurface2067
+    400274: pasted__polySurface2068
+    400276: pasted__polySurface2072
+    400278: pasted__polySurface2074
+    400280: pasted__polySurface2075
+    400282: pasted__polySurface2076
+    400284: pasted__polySurface2077
+    400286: pasted__polySurface2078
+    400288: pasted__polySurface2371
+    400290: pasted__polySurface2372
+    400292: pasted__polySurface2373
+    400294: pasted__pPipe1
+    400296: pasted__sword1
+    400298: pasted__SWORDS
+    400300: pCube1
+    400302: pCube10
+    400304: pCube11
+    400306: pCube12
+    400308: pCube13
+    400310: pCube14
+    400312: pCube15
+    400314: pCube16
+    400316: pCube17
+    400318: pCube18
+    400320: pCube19
+    400322: pCube192
+    400324: pCube193
+    400326: pCube194
+    400328: pCube195
+    400330: pCube196
+    400332: pCube197
+    400334: pCube2
+    400336: pCube20
+    400338: pCube200
+    400340: pCube204
+    400342: pCube205
+    400344: pCube21
+    400346: pCube210
+    400348: pCube211
+    400350: pCube212
+    400352: pCube213
+    400354: pCube214
+    400356: pCube215
+    400358: pCube216
+    400360: pCube217
+    400362: pCube218
+    400364: pCube219
+    400366: pCube22
+    400368: pCube220
+    400370: pCube221
+    400372: pCube222
+    400374: pCube223
+    400376: pCube224
+    400378: pCube225
+    400380: pCube226
+    400382: pCube227
+    400384: pCube228
+    400386: pCube229
+    400388: pCube23
+    400390: pCube230
+    400392: pCube231
+    400394: pCube232
+    400396: pCube233
+    400398: pCube234
+    400400: pCube235
+    400402: pCube236
+    400404: pCube237
+    400406: pCube238
+    400408: pCube239
+    400410: pCube24
+    400412: pCube240
+    400414: pCube241
+    400416: pCube242
+    400418: pCube243
+    400420: pCube244
+    400422: pCube245
+    400424: pCube246
+    400426: pCube247
+    400428: pCube248
+    400430: pCube249
+    400432: pCube25
+    400434: pCube250
+    400436: pCube251
+    400438: pCube252
+    400440: pCube26
+    400442: pCube27
+    400444: pCube28
+    400446: pCube29
+    400448: pCube3
+    400450: pCube30
+    400452: pCube4
+    400454: pCube5
+    400456: pCube6
+    400458: pCube7
+    400460: pCube8
+    400462: pCube9
+    400464: pCylinder1
+    400466: pCylinder10
+    400468: pCylinder108
+    400470: pCylinder109
+    400472: pCylinder11
+    400474: pCylinder110
+    400476: pCylinder111
+    400478: pCylinder112
+    400480: pCylinder113
+    400482: pCylinder115
+    400484: pCylinder116
+    400486: pCylinder117
+    400488: pCylinder118
+    400490: pCylinder119
+    400492: pCylinder12
+    400494: pCylinder120
+    400496: pCylinder121
+    400498: pCylinder13
+    400500: pCylinder14
+    400502: pCylinder15
+    400504: pCylinder16
+    400506: pCylinder17
+    400508: pCylinder18
+    400510: pCylinder19
+    400512: pCylinder2
+    400514: pCylinder20
+    400516: pCylinder21
+    400518: pCylinder23
+    400520: pCylinder27
+    400522: pCylinder28
+    400524: pCylinder29
+    400526: pCylinder3
+    400528: pCylinder30
+    400530: pCylinder31
+    400532: pCylinder33
+    400534: pCylinder34
+    400536: pCylinder35
+    400538: pCylinder36
+    400540: pCylinder4
+    400542: pCylinder5
+    400544: pCylinder6
+    400546: pCylinder7
+    400548: pCylinder9
+    400550: //RootNode
+    400552: player_root
+    400554: polySurface1
+    400556: polySurface1104
+    400558: polySurface1106
+    400560: polySurface1107
+    400562: polySurface1108
+    400564: polySurface1109
+    400566: polySurface1110
+    400568: polySurface1111
+    400570: polySurface1112
+    400572: polySurface1113
+    400574: polySurface1114
+    400576: polySurface1115
+    400578: polySurface1116
+    400580: polySurface1117
+    400582: polySurface1118
+    400584: polySurface1119
+    400586: polySurface1120
+    400588: polySurface1121
+    400590: polySurface1122
+    400592: polySurface1123
+    400594: polySurface1124
+    400596: polySurface1125
+    400598: polySurface1126
+    400600: polySurface1127
+    400602: polySurface1128
+    400604: polySurface1129
+    400606: polySurface1130
+    400608: polySurface1131
+    400610: polySurface1132
+    400612: polySurface1133
+    400614: polySurface1134
+    400616: polySurface1135
+    400618: polySurface1136
+    400620: polySurface1137
+    400622: polySurface1138
+    400624: polySurface1139
+    400626: polySurface1140
+    400628: polySurface1141
+    400630: polySurface1142
+    400632: polySurface1143
+    400634: polySurface1145
+    400636: polySurface1147
+    400638: polySurface1148
+    400640: polySurface1149
+    400642: polySurface1150
+    400644: polySurface1151
+    400646: polySurface1152
+    400648: polySurface1153
+    400650: polySurface1154
+    400652: polySurface1155
+    400654: polySurface1156
+    400656: polySurface1157
+    400658: polySurface1158
+    400660: polySurface1159
+    400662: polySurface1160
+    400664: polySurface1161
+    400666: polySurface1162
+    400668: polySurface1163
+    400670: polySurface1164
+    400672: polySurface1165
+    400674: polySurface1166
+    400676: polySurface1167
+    400678: polySurface1168
+    400680: polySurface1169
+    400682: polySurface1170
+    400684: polySurface1171
+    400686: polySurface1172
+    400688: polySurface1173
+    400690: polySurface1174
+    400692: polySurface1175
+    400694: polySurface1176
+    400696: polySurface1177
+    400698: polySurface1178
+    400700: polySurface1179
+    400702: polySurface1180
+    400704: polySurface1181
+    400706: polySurface1182
+    400708: polySurface1183
+    400710: polySurface1184
+    400712: polySurface1185
+    400714: polySurface1186
+    400716: polySurface1187
+    400718: polySurface1188
+    400720: polySurface1191
+    400722: polySurface1192
+    400724: polySurface1193
+    400726: polySurface1214
+    400728: polySurface1215
+    400730: polySurface1217
+    400732: polySurface1218
+    400734: polySurface1219
+    400736: polySurface1220
+    400738: polySurface1221
+    400740: polySurface1222
+    400742: polySurface166
+    400744: polySurface1867
+    400746: polySurface1868
+    400748: polySurface1869
+    400750: polySurface1870
+    400752: polySurface1871
+    400754: polySurface1872
+    400756: polySurface1914
+    400758: polySurface1915
+    400760: polySurface1916
+    400762: polySurface1917
+    400764: polySurface1984
+    400766: polySurface1986
+    400768: polySurface1987
+    400770: polySurface2
+    400772: polySurface2051
+    400774: polySurface2052
+    400776: polySurface2053
+    400778: polySurface2054
+    400780: polySurface2055
+    400782: polySurface2056
+    400784: polySurface2057
+    400786: polySurface2058
+    400788: polySurface2059
+    400790: polySurface2060
+    400792: polySurface2061
+    400794: polySurface2062
+    400796: polySurface2063
+    400798: polySurface2064
+    400800: polySurface2066
+    400802: polySurface2067
+    400804: polySurface2068
+    400806: polySurface2072
+    400808: polySurface2074
+    400810: polySurface2075
+    400812: polySurface2076
+    400814: polySurface2077
+    400816: polySurface2078
+    400818: polySurface2079
+    400820: polySurface2099
+    400822: polySurface2100
+    400824: polySurface2101
+    400826: polySurface2102
+    400828: polySurface2106
+    400830: polySurface2108
+    400832: polySurface2109
+    400834: polySurface2110
+    400836: polySurface2111
+    400838: polySurface2112
+    400840: polySurface2113
+    400842: polySurface2114
+    400844: polySurface2117
+    400846: polySurface2118
+    400848: polySurface2119
+    400850: polySurface2120
+    400852: polySurface2121
+    400854: polySurface2122
+    400856: polySurface2123
+    400858: polySurface2124
+    400860: polySurface2125
+    400862: polySurface2126
+    400864: polySurface2127
+    400866: polySurface2133
+    400868: polySurface2134
+    400870: polySurface2135
+    400872: polySurface2136
+    400874: polySurface2137
+    400876: polySurface2138
+    400878: polySurface2139
+    400880: polySurface2140
+    400882: polySurface2141
+    400884: polySurface2142
+    400886: polySurface2143
+    400888: polySurface2144
+    400890: polySurface2145
+    400892: polySurface2146
+    400894: polySurface2147
+    400896: polySurface2148
+    400898: polySurface2149
+    400900: polySurface2150
+    400902: polySurface2151
+    400904: polySurface2152
+    400906: polySurface2153
+    400908: polySurface2154
+    400910: polySurface2155
+    400912: polySurface2156
+    400914: polySurface2157
+    400916: polySurface2158
+    400918: polySurface2159
+    400920: polySurface2160
+    400922: polySurface2161
+    400924: polySurface2162
+    400926: polySurface2163
+    400928: polySurface2164
+    400930: polySurface2165
+    400932: polySurface2166
+    400934: polySurface2168
+    400936: polySurface2169
+    400938: polySurface2170
+    400940: polySurface2171
+    400942: polySurface2172
+    400944: polySurface2176
+    400946: polySurface2177
+    400948: polySurface2178
+    400950: polySurface2179
+    400952: polySurface2180
+    400954: polySurface2181
+    400956: polySurface2182
+    400958: polySurface2183
+    400960: polySurface2184
+    400962: polySurface2185
+    400964: polySurface2186
+    400966: polySurface2189
+    400968: polySurface2190
+    400970: polySurface2191
+    400972: polySurface2192
+    400974: polySurface2193
+    400976: polySurface2194
+    400978: polySurface2195
+    400980: polySurface2196
+    400982: polySurface2197
+    400984: polySurface2198
+    400986: polySurface2199
+    400988: polySurface2200
+    400990: polySurface2201
+    400992: polySurface2202
+    400994: polySurface2203
+    400996: polySurface2204
+    400998: polySurface2205
+    401000: polySurface2206
+    401002: polySurface2207
+    401004: polySurface2208
+    401006: polySurface2209
+    401008: polySurface2210
+    401010: polySurface2211
+    401012: polySurface2212
+    401014: polySurface2213
+    401016: polySurface2214
+    401018: polySurface2215
+    401020: polySurface2216
+    401022: polySurface2217
+    401024: polySurface2218
+    401026: polySurface2219
+    401028: polySurface2220
+    401030: polySurface2221
+    401032: polySurface2222
+    401034: polySurface2223
+    401036: polySurface2224
+    401038: polySurface2225
+    401040: polySurface2226
+    401042: polySurface2227
+    401044: polySurface2228
+    401046: polySurface2229
+    401048: polySurface2230
+    401050: polySurface2231
+    401052: polySurface2232
+    401054: polySurface2233
+    401056: polySurface2234
+    401058: polySurface2235
+    401060: polySurface2236
+    401062: polySurface2237
+    401064: polySurface2238
+    401066: polySurface2239
+    401068: polySurface2240
+    401070: polySurface2241
+    401072: polySurface2247
+    401074: polySurface2248
+    401076: polySurface2251
+    401078: polySurface2252
+    401080: polySurface2253
+    401082: polySurface2254
+    401084: polySurface2256
+    401086: polySurface2257
+    401088: polySurface2258
+    401090: polySurface2259
+    401092: polySurface2260
+    401094: polySurface2261
+    401096: polySurface2262
+    401098: polySurface2263
+    401100: polySurface2264
+    401102: polySurface2265
+    401104: polySurface2266
+    401106: polySurface2267
+    401108: polySurface2268
+    401110: polySurface2269
+    401112: polySurface2270
+    401114: polySurface2271
+    401116: polySurface2272
+    401118: polySurface2273
+    401120: polySurface2274
+    401122: polySurface2275
+    401124: polySurface2276
+    401126: polySurface2277
+    401128: polySurface2278
+    401130: polySurface2279
+    401132: polySurface2280
+    401134: polySurface2281
+    401136: polySurface2282
+    401138: polySurface2283
+    401140: polySurface2284
+    401142: polySurface2285
+    401144: polySurface2286
+    401146: polySurface2287
+    401148: polySurface2288
+    401150: polySurface2289
+    401152: polySurface2290
+    401154: polySurface2291
+    401156: polySurface2292
+    401158: polySurface2293
+    401160: polySurface2294
+    401162: polySurface2295
+    401164: polySurface2296
+    401166: polySurface2297
+    401168: polySurface2298
+    401170: polySurface2299
+    401172: polySurface2300
+    401174: polySurface2301
+    401176: polySurface2302
+    401178: polySurface2303
+    401180: polySurface2304
+    401182: polySurface2305
+    401184: polySurface2306
+    401186: polySurface2307
+    401188: polySurface2308
+    401190: polySurface2309
+    401192: polySurface2310
+    401194: polySurface2311
+    401196: polySurface2312
+    401198: polySurface2313
+    401200: polySurface2314
+    401202: polySurface2315
+    401204: polySurface2316
+    401206: polySurface2317
+    401208: polySurface2318
+    401210: polySurface2319
+    401212: polySurface2320
+    401214: polySurface2321
+    401216: polySurface2322
+    401218: polySurface2323
+    401220: polySurface2324
+    401222: polySurface2325
+    401224: polySurface2326
+    401226: polySurface2327
+    401228: polySurface2328
+    401230: polySurface2329
+    401232: polySurface2330
+    401234: polySurface2331
+    401236: polySurface2332
+    401238: polySurface2333
+    401240: polySurface2334
+    401242: polySurface2335
+    401244: polySurface2336
+    401246: polySurface2337
+    401248: polySurface2338
+    401250: polySurface2339
+    401252: polySurface2340
+    401254: polySurface2341
+    401256: polySurface2342
+    401258: polySurface2343
+    401260: polySurface2344
+    401262: polySurface2345
+    401264: polySurface2346
+    401266: polySurface2347
+    401268: polySurface2348
+    401270: polySurface2349
+    401272: polySurface2350
+    401274: polySurface2351
+    401276: polySurface2352
+    401278: polySurface2353
+    401280: polySurface2354
+    401282: polySurface2355
+    401284: polySurface2356
+    401286: polySurface2357
+    401288: polySurface2358
+    401290: polySurface2359
+    401292: polySurface2360
+    401294: polySurface2361
+    401296: polySurface2362
+    401298: polySurface2363
+    401300: polySurface2365
+    401302: polySurface2366
+    401304: polySurface2367
+    401306: polySurface2367 1
+    401308: polySurface2368
+    401310: polySurface2368 1
+    401312: polySurface2369
+    401314: polySurface2369 1
+    401316: polySurface2370
+    401318: polySurface2371
+    401320: polySurface2372
+    401322: polySurface2373
+    401324: polySurface2374
+    401326: polySurface2472
+    401328: polySurface2475
+    401330: polySurface2476
+    401332: polySurface2477
+    401334: polySurface2478
+    401336: polySurface2480
+    401338: polySurface2488
+    401340: polySurface2490
+    401342: polySurface2500
+    401344: polySurface2501
+    401346: polySurface2503
+    401348: polySurface2504
+    401350: polySurface2510
+    401352: polySurface2555
+    401354: polySurface2560
+    401356: polySurface2562
+    401358: polySurface2565
+    401360: polySurface2566
+    401362: polySurface2567
+    401364: polySurface2568
+    401366: polySurface2572
+    401368: polySurface2573
+    401370: polySurface2574
+    401372: polySurface2575
+    401374: polySurface2576
+    401376: polySurface2577
+    401378: polySurface2578
+    401380: polySurface2579
+    401382: polySurface2580
+    401384: polySurface2581
+    401386: polySurface2582
+    401388: polySurface2583
+    401390: polySurface2584
+    401392: polySurface2585
+    401394: polySurface2586
+    401396: polySurface2587
+    401398: polySurface2588
+    401400: polySurface2589
+    401402: polySurface2590
+    401404: polySurface2591
+    401406: polySurface2592
+    401408: polySurface2593
+    401410: polySurface2594
+    401412: polySurface2595
+    401414: polySurface2596
+    401416: polySurface2597
+    401418: polySurface2598
+    401420: polySurface2599
+    401422: polySurface2600
+    401424: polySurface2601
+    401426: polySurface2602
+    401428: polySurface2603
+    401430: polySurface2604
+    401432: polySurface2605
+    401434: polySurface2606
+    401436: polySurface2607
+    401438: polySurface2608
+    401440: polySurface2609
+    401442: polySurface2610
+    401444: polySurface2611
+    401446: polySurface2612
+    401448: polySurface2613
+    401450: polySurface2614
+    401452: polySurface2615
+    401454: polySurface2616
+    401456: polySurface2617
+    401458: polySurface2618
+    401460: polySurface2619
+    401462: polySurface2620
+    401464: polySurface2621
+    401466: polySurface2622
+    401468: polySurface2623
+    401470: polySurface2624
+    401472: polySurface2625
+    401474: polySurface2626
+    401476: polySurface2627
+    401478: polySurface2628
+    401480: polySurface2629
+    401482: polySurface2630
+    401484: polySurface2631
+    401486: polySurface2632
+    401488: polySurface2633
+    401490: polySurface2634
+    401492: polySurface2635
+    401494: polySurface2636
+    401496: polySurface3
+    401498: polySurface4
+    401500: polySurface5
+    401502: polySurface5 1
+    401504: polySurface6
+    401506: polySurface7
+    401508: polySurface707
+    401510: polySurface708
+    401512: polySurface759
+    401514: polySurface764
+    401516: polySurface764 1
+    401518: polySurface766
+    401520: polySurface798
+    401522: polySurface8
+    401524: polySurface9
+    401526: pPipe1
+    401528: pPipe2
+    401530: pPlane10
+    401532: pPlane11
+    401534: pPlane12
+    401536: pPlane13
+    401538: pPlane14
+    401540: pPlane15
+    401542: pPlane16
+    401544: pPlane17
+    401546: pPlane18
+    401548: pPlane19
+    401550: pPlane2
+    401552: pPlane20
+    401554: pPlane21
+    401556: pPlane22
+    401558: pPlane23
+    401560: pPlane24
+    401562: pPlane25
+    401564: pPlane26
+    401566: pPlane27
+    401568: pPlane28
+    401570: pPlane29
+    401572: pPlane3
+    401574: pPlane30
+    401576: pPlane31
+    401578: pPlane32
+    401580: pPlane33
+    401582: pPlane34
+    401584: pPlane35
+    401586: pPlane36
+    401588: pPlane37
+    401590: pPlane4
+    401592: pPlane5
+    401594: pPlane6
+    401596: pPlane7
+    401598: pPlane8
+    401600: pPlane9
+    401602: pSphere1
+    401604: pSphere2
+    401606: ROBOT_GROUP
+    401608: sword1
+    401610: sword2
+    401612: SWORDS
+    401614: tail
+    401616: transform1
+    401618: transform10
+    401620: transform1061
+    401622: transform1062
+    401624: transform1063
+    401626: transform1064
+    401628: transform1065
+    401630: transform1066
+    401632: transform1067
+    401634: transform1068
+    401636: transform1069
+    401638: transform1070
+    401640: transform1071
+    401642: transform1072
+    401644: transform1073
+    401646: transform1074
+    401648: transform1075
+    401650: transform11
+    401652: transform1195
+    401654: transform1196
+    401656: transform1197
+    401658: transform1198
+    401660: transform1199
+    401662: transform12
+    401664: transform1200
+    401666: transform1201
+    401668: transform1202
+    401670: transform1203
+    401672: transform1204
+    401674: transform1205
+    401676: transform1206
+    401678: transform1207
+    401680: transform1208
+    401682: transform1209
+    401684: transform1210
+    401686: transform1211
+    401688: transform1212
+    401690: transform1213
+    401692: transform1214
+    401694: transform1215
+    401696: transform1216
+    401698: transform1217
+    401700: transform1218
+    401702: transform1219
+    401704: transform1220
+    401706: transform1221
+    401708: transform1222
+    401710: transform1223
+    401712: transform1224
+    401714: transform1225
+    401716: transform1226
+    401718: transform1227
+    401720: transform1228
+    401722: transform1229
+    401724: transform1230
+    401726: transform1231
+    401728: transform1232
+    401730: transform1233
+    401732: transform1234
+    401734: transform1235
+    401736: transform1236
+    401738: transform1237
+    401740: transform1238
+    401742: transform1239
+    401744: transform1240
+    401746: transform1241
+    401748: transform1242
+    401750: transform1243
+    401752: transform1244
+    401754: transform1245
+    401756: transform1246
+    401758: transform1247
+    401760: transform1248
+    401762: transform1249
+    401764: transform1250
+    401766: transform1251
+    401768: transform1252
+    401770: transform1253
+    401772: transform1254
+    401774: transform1255
+    401776: transform1256
+    401778: transform1257
+    401780: transform1258
+    401782: transform1259
+    401784: transform1260
+    401786: transform1261
+    401788: transform1262
+    401790: transform1263
+    401792: transform1264
+    401794: transform1265
+    401796: transform1266
+    401798: transform1267
+    401800: transform1268
+    401802: transform1269
+    401804: transform1270
+    401806: transform1271
+    401808: transform1272
+    401810: transform1273
+    401812: transform1274
+    401814: transform1275
+    401816: transform1276
+    401818: transform1277
+    401820: transform1278
+    401822: transform1279
+    401824: transform1280
+    401826: transform1281
+    401828: transform1282
+    401830: transform1283
+    401832: transform1284
+    401834: transform1285
+    401836: transform1286
+    401838: transform1297
+    401840: transform1298
+    401842: transform1299
+    401844: transform13
+    401846: transform1300
+    401848: transform1301
+    401850: transform1302
+    401852: transform1303
+    401854: transform1304
+    401856: transform1305
+    401858: transform1306
+    401860: transform1307
+    401862: transform1308
+    401864: transform1309
+    401866: transform1310
+    401868: transform1311
+    401870: transform1312
+    401872: transform1313
+    401874: transform1314
+    401876: transform1315
+    401878: transform1316
+    401880: transform1317
+    401882: transform1318
+    401884: transform1319
+    401886: transform1320
+    401888: transform1321
+    401890: transform1322
+    401892: transform1323
+    401894: transform1324
+    401896: transform1325
+    401898: transform1326
+    401900: transform1327
+    401902: transform1328
+    401904: transform1329
+    401906: transform1330
+    401908: transform1331
+    401910: transform1332
+    401912: transform1333
+    401914: transform1334
+    401916: transform1335
+    401918: transform1336
+    401920: transform1337
+    401922: transform1338
+    401924: transform1339
+    401926: transform1340
+    401928: transform1341
+    401930: transform1342
+    401932: transform1343
+    401934: transform1344
+    401936: transform1345
+    401938: transform1346
+    401940: transform1347
+    401942: transform1348
+    401944: transform14
+    401946: transform15
+    401948: transform16
+    401950: transform17
+    401952: transform18
+    401954: transform19
+    401956: transform2
+    401958: transform20
+    401960: transform21
+    401962: transform3
+    401964: transform4
+    401966: transform5
+    401968: transform6
+    401970: transform7
+    401972: transform8
+    401974: transform9
+    401976: Trim_Char_A_1_1
+    401978: Trim_Char_A_1_2
+    401980: Trim_Char_B_1_1
+    401982: Trim_Char_B_1_2
+    401984: Trim_Char_E_1_1
+    401986: Trim_Char_E_1_2
+    401988: Trim_Char_E_2_1
+    401990: Trim_Char_E_2_2
+    401992: Trim_Char_L_1_1
+    401994: Trim_Char_L_1_2
+    401996: Trim_Char_O_1_1
+    401998: Trim_Char_O_1_2
+    402000: Trim_Char_R_1_1
+    402002: Trim_Char_R_1_2
+    402004: Trim_Char_V_1_1
+    402006: Trim_Char_V_1_2
+    2300000: pasted__pCube200
+    2300002: pasted__pCube204
+    2300004: pasted__pCube205
+    2300006: pasted__pCube210
+    2300008: pasted__pCube211
+    2300010: pasted__pCube212
+    2300012: pasted__pCube213
+    2300014: pasted__pCube214
+    2300016: pasted__pCube215
+    2300018: pasted__pCube216
+    2300020: pasted__pCylinder108
+    2300022: pasted__pCylinder109
+    2300024: pasted__pCylinder110
+    2300026: pasted__pCylinder111
+    2300028: pasted__pCylinder116
+    2300030: pasted__polySurface2051
+    2300032: pasted__polySurface2052
+    2300034: pasted__polySurface2053
+    2300036: pasted__polySurface2054
+    2300038: pasted__polySurface2055
+    2300040: pasted__polySurface2056
+    2300042: pasted__polySurface2057
+    2300044: pasted__polySurface2058
+    2300046: pasted__polySurface2059
+    2300048: pasted__polySurface2060
+    2300050: pasted__polySurface2061
+    2300052: pasted__polySurface2062
+    2300054: pasted__polySurface2063
+    2300056: pasted__polySurface2064
+    2300058: pasted__polySurface2066
+    2300060: pasted__polySurface2067
+    2300062: pasted__polySurface2068
+    2300064: pasted__polySurface2072
+    2300066: pasted__polySurface2074
+    2300068: pasted__polySurface2075
+    2300070: pasted__polySurface2076
+    2300072: pasted__polySurface2077
+    2300074: pasted__polySurface2078
+    2300076: pasted__polySurface2371
+    2300078: pasted__polySurface2372
+    2300080: pasted__polySurface2373
+    2300082: pasted__pPipe1
+    2300084: pCube10
+    2300086: pCube11
+    2300088: pCube12
+    2300090: pCube13
+    2300092: pCube14
+    2300094: pCube18
+    2300096: pCube19
+    2300098: pCube2
+    2300100: pCube200
+    2300102: pCube204
+    2300104: pCube205
+    2300106: pCube21
+    2300108: pCube210
+    2300110: pCube211
+    2300112: pCube212
+    2300114: pCube213
+    2300116: pCube214
+    2300118: pCube215
+    2300120: pCube216
+    2300122: pCube22
+    2300124: pCube23
+    2300126: pCube24
+    2300128: pCube242
+    2300130: pCube243
+    2300132: pCube244
+    2300134: pCube245
+    2300136: pCube246
+    2300138: pCube247
+    2300140: pCube248
+    2300142: pCube249
+    2300144: pCube25
+    2300146: pCube250
+    2300148: pCube251
+    2300150: pCube26
+    2300152: pCube27
+    2300154: pCube28
+    2300156: pCube29
+    2300158: pCube3
+    2300160: pCube30
+    2300162: pCube4
+    2300164: pCube5
+    2300166: pCube7
+    2300168: pCube8
+    2300170: pCube9
+    2300172: pCylinder1
+    2300174: pCylinder108
+    2300176: pCylinder109
+    2300178: pCylinder110
+    2300180: pCylinder111
+    2300182: pCylinder116
+    2300184: pCylinder117
+    2300186: pCylinder118
+    2300188: pCylinder119
+    2300190: pCylinder120
+    2300192: pCylinder121
+    2300194: pCylinder15
+    2300196: pCylinder17
+    2300198: pCylinder18
+    2300200: pCylinder19
+    2300202: pCylinder2
+    2300204: pCylinder20
+    2300206: pCylinder21
+    2300208: pCylinder23
+    2300210: pCylinder27
+    2300212: pCylinder28
+    2300214: pCylinder29
+    2300216: pCylinder30
+    2300218: pCylinder31
+    2300220: pCylinder33
+    2300222: pCylinder34
+    2300224: pCylinder35
+    2300226: pCylinder36
+    2300228: pCylinder4
+    2300230: pCylinder5
+    2300232: pCylinder6
+    2300234: pCylinder7
+    2300236: polySurface2051
+    2300238: polySurface2052
+    2300240: polySurface2053
+    2300242: polySurface2054
+    2300244: polySurface2055
+    2300246: polySurface2056
+    2300248: polySurface2057
+    2300250: polySurface2058
+    2300252: polySurface2059
+    2300254: polySurface2060
+    2300256: polySurface2061
+    2300258: polySurface2062
+    2300260: polySurface2063
+    2300262: polySurface2064
+    2300264: polySurface2066
+    2300266: polySurface2067
+    2300268: polySurface2068
+    2300270: polySurface2072
+    2300272: polySurface2074
+    2300274: polySurface2075
+    2300276: polySurface2076
+    2300278: polySurface2077
+    2300280: polySurface2078
+    2300282: polySurface2371
+    2300284: polySurface2372
+    2300286: polySurface2373
+    2300288: polySurface2586
+    2300290: polySurface2587
+    2300292: polySurface2605
+    2300294: polySurface2606
+    2300296: polySurface2607
+    2300298: polySurface2608
+    2300300: polySurface2609
+    2300302: polySurface2610
+    2300304: polySurface2611
+    2300306: polySurface2612
+    2300308: polySurface2613
+    2300310: polySurface2614
+    2300312: polySurface2615
+    2300314: polySurface2616
+    2300316: polySurface2617
+    2300318: polySurface2618
+    2300320: polySurface2619
+    2300322: polySurface2620
+    2300324: polySurface2621
+    2300326: polySurface2622
+    2300328: polySurface2623
+    2300330: polySurface2624
+    2300332: polySurface2625
+    2300334: polySurface2626
+    2300336: polySurface2627
+    2300338: polySurface2628
+    2300340: polySurface2629
+    2300342: polySurface2630
+    2300344: polySurface4
+    2300346: polySurface7
+    2300348: polySurface8
+    2300350: polySurface9
+    2300352: pPipe1
+    2300354: pPipe2
+    2300356: tail
+    3300000: pasted__pCube200
+    3300002: pasted__pCube204
+    3300004: pasted__pCube205
+    3300006: pasted__pCube210
+    3300008: pasted__pCube211
+    3300010: pasted__pCube212
+    3300012: pasted__pCube213
+    3300014: pasted__pCube214
+    3300016: pasted__pCube215
+    3300018: pasted__pCube216
+    3300020: pasted__pCylinder108
+    3300022: pasted__pCylinder109
+    3300024: pasted__pCylinder110
+    3300026: pasted__pCylinder111
+    3300028: pasted__pCylinder116
+    3300030: pasted__polySurface2051
+    3300032: pasted__polySurface2052
+    3300034: pasted__polySurface2053
+    3300036: pasted__polySurface2054
+    3300038: pasted__polySurface2055
+    3300040: pasted__polySurface2056
+    3300042: pasted__polySurface2057
+    3300044: pasted__polySurface2058
+    3300046: pasted__polySurface2059
+    3300048: pasted__polySurface2060
+    3300050: pasted__polySurface2061
+    3300052: pasted__polySurface2062
+    3300054: pasted__polySurface2063
+    3300056: pasted__polySurface2064
+    3300058: pasted__polySurface2066
+    3300060: pasted__polySurface2067
+    3300062: pasted__polySurface2068
+    3300064: pasted__polySurface2072
+    3300066: pasted__polySurface2074
+    3300068: pasted__polySurface2075
+    3300070: pasted__polySurface2076
+    3300072: pasted__polySurface2077
+    3300074: pasted__polySurface2078
+    3300076: pasted__polySurface2371
+    3300078: pasted__polySurface2372
+    3300080: pasted__polySurface2373
+    3300082: pasted__pPipe1
+    3300084: pCube10
+    3300086: pCube11
+    3300088: pCube12
+    3300090: pCube13
+    3300092: pCube14
+    3300094: pCube18
+    3300096: pCube19
+    3300098: pCube2
+    3300100: pCube200
+    3300102: pCube204
+    3300104: pCube205
+    3300106: pCube21
+    3300108: pCube210
+    3300110: pCube211
+    3300112: pCube212
+    3300114: pCube213
+    3300116: pCube214
+    3300118: pCube215
+    3300120: pCube216
+    3300122: pCube22
+    3300124: pCube23
+    3300126: pCube24
+    3300128: pCube242
+    3300130: pCube243
+    3300132: pCube244
+    3300134: pCube245
+    3300136: pCube246
+    3300138: pCube247
+    3300140: pCube248
+    3300142: pCube249
+    3300144: pCube25
+    3300146: pCube250
+    3300148: pCube251
+    3300150: pCube26
+    3300152: pCube27
+    3300154: pCube28
+    3300156: pCube29
+    3300158: pCube3
+    3300160: pCube30
+    3300162: pCube4
+    3300164: pCube5
+    3300166: pCube7
+    3300168: pCube8
+    3300170: pCube9
+    3300172: pCylinder1
+    3300174: pCylinder108
+    3300176: pCylinder109
+    3300178: pCylinder110
+    3300180: pCylinder111
+    3300182: pCylinder116
+    3300184: pCylinder117
+    3300186: pCylinder118
+    3300188: pCylinder119
+    3300190: pCylinder120
+    3300192: pCylinder121
+    3300194: pCylinder15
+    3300196: pCylinder17
+    3300198: pCylinder18
+    3300200: pCylinder19
+    3300202: pCylinder2
+    3300204: pCylinder20
+    3300206: pCylinder21
+    3300208: pCylinder23
+    3300210: pCylinder27
+    3300212: pCylinder28
+    3300214: pCylinder29
+    3300216: pCylinder30
+    3300218: pCylinder31
+    3300220: pCylinder33
+    3300222: pCylinder34
+    3300224: pCylinder35
+    3300226: pCylinder36
+    3300228: pCylinder4
+    3300230: pCylinder5
+    3300232: pCylinder6
+    3300234: pCylinder7
+    3300236: polySurface2051
+    3300238: polySurface2052
+    3300240: polySurface2053
+    3300242: polySurface2054
+    3300244: polySurface2055
+    3300246: polySurface2056
+    3300248: polySurface2057
+    3300250: polySurface2058
+    3300252: polySurface2059
+    3300254: polySurface2060
+    3300256: polySurface2061
+    3300258: polySurface2062
+    3300260: polySurface2063
+    3300262: polySurface2064
+    3300264: polySurface2066
+    3300266: polySurface2067
+    3300268: polySurface2068
+    3300270: polySurface2072
+    3300272: polySurface2074
+    3300274: polySurface2075
+    3300276: polySurface2076
+    3300278: polySurface2077
+    3300280: polySurface2078
+    3300282: polySurface2371
+    3300284: polySurface2372
+    3300286: polySurface2373
+    3300288: polySurface2586
+    3300290: polySurface2587
+    3300292: polySurface2605
+    3300294: polySurface2606
+    3300296: polySurface2607
+    3300298: polySurface2608
+    3300300: polySurface2609
+    3300302: polySurface2610
+    3300304: polySurface2611
+    3300306: polySurface2612
+    3300308: polySurface2613
+    3300310: polySurface2614
+    3300312: polySurface2615
+    3300314: polySurface2616
+    3300316: polySurface2617
+    3300318: polySurface2618
+    3300320: polySurface2619
+    3300322: polySurface2620
+    3300324: polySurface2621
+    3300326: polySurface2622
+    3300328: polySurface2623
+    3300330: polySurface2624
+    3300332: polySurface2625
+    3300334: polySurface2626
+    3300336: polySurface2627
+    3300338: polySurface2628
+    3300340: polySurface2629
+    3300342: polySurface2630
+    3300344: polySurface4
+    3300346: polySurface7
+    3300348: polySurface8
+    3300350: polySurface9
+    3300352: pPipe1
+    3300354: pPipe2
+    3300356: tail
+    4300000: polySurface2586
+    4300002: polySurface2587
+    4300004: pPipe1
+    4300006: pCylinder116
+    4300008: polySurface2373
+    4300010: polySurface2372
+    4300012: polySurface2371
+    4300014: pCube216
+    4300016: pCube215
+    4300018: pCube214
+    4300020: pCube213
+    4300022: pCube212
+    4300024: pCylinder111
+    4300026: pCube211
+    4300028: pCube210
+    4300030: pCube205
+    4300032: pCube204
+    4300034: pCylinder110
+    4300036: pCylinder109
+    4300038: polySurface2078
+    4300040: pCylinder108
+    4300042: pCube200
+    4300044: polySurface2077
+    4300046: polySurface2076
+    4300048: polySurface2075
+    4300050: polySurface2074
+    4300052: polySurface2072
+    4300054: polySurface2068
+    4300056: polySurface2067
+    4300058: polySurface2066
+    4300060: polySurface2064
+    4300062: polySurface2063
+    4300064: polySurface2062
+    4300066: polySurface2061
+    4300068: polySurface2060
+    4300070: polySurface2059
+    4300072: polySurface2058
+    4300074: polySurface2057
+    4300076: polySurface2056
+    4300078: polySurface2055
+    4300080: polySurface2054
+    4300082: polySurface2053
+    4300084: polySurface2052
+    4300086: polySurface2051
+    4300088: pPipe2
+    4300090: pCylinder121
+    4300092: polySurface2630
+    4300094: polySurface2629
+    4300096: polySurface2628
+    4300098: pCube251
+    4300100: pCube250
+    4300102: pCube249
+    4300104: pCube248
+    4300106: pCube247
+    4300108: pCylinder120
+    4300110: pCube246
+    4300112: pCube245
+    4300114: pCube244
+    4300116: pCube243
+    4300118: pCylinder119
+    4300120: pCylinder118
+    4300122: polySurface2627
+    4300124: pCylinder117
+    4300126: pCube242
+    4300128: polySurface2626
+    4300130: polySurface2625
+    4300132: polySurface2624
+    4300134: polySurface2623
+    4300136: polySurface2622
+    4300138: polySurface2621
+    4300140: polySurface2620
+    4300142: polySurface2619
+    4300144: polySurface2618
+    4300146: polySurface2617
+    4300148: polySurface2616
+    4300150: polySurface2615
+    4300152: polySurface2614
+    4300154: polySurface2613
+    4300156: polySurface2612
+    4300158: polySurface2611
+    4300160: polySurface2610
+    4300162: polySurface2609
+    4300164: polySurface2608
+    4300166: polySurface2607
+    4300168: polySurface2606
+    4300170: polySurface2605
+    4300172: tail
+    4300174: pCube2
+    4300176: pCylinder1
+    4300178: pCylinder2
+    4300180: pCylinder4
+    4300182: pCube3
+    4300184: pCube4
+    4300186: pCube5
+    4300188: pCube7
+    4300190: pCube8
+    4300192: pCube9
+    4300194: pCube10
+    4300196: pCylinder5
+    4300198: pCylinder6
+    4300200: pCube11
+    4300202: pCylinder7
+    4300204: pCube12
+    4300206: pCube13
+    4300208: pCube14
+    4300210: polySurface4
+    4300212: pCube18
+    4300214: pCube19
+    4300216: polySurface7
+    4300218: pCylinder15
+    4300220: pCylinder17
+    4300222: polySurface8
+    4300224: pCube21
+    4300226: pCube22
+    4300228: pCube24
+    4300230: pCylinder18
+    4300232: pCylinder19
+    4300234: pCube23
+    4300236: pCylinder20
+    4300238: pCylinder21
+    4300240: pCylinder23
+    4300242: pCylinder27
+    4300244: pCylinder28
+    4300246: pCylinder29
+    4300248: pCylinder30
+    4300250: pCube25
+    4300252: pCube26
+    4300254: pCylinder31
+    4300256: pCylinder33
+    4300258: pCube27
+    4300260: pCube28
+    4300262: pCylinder34
+    4300264: polySurface9
+    4300266: pCube29
+    4300268: pCube30
+    4300270: pCylinder35
+    4300272: pCylinder36
+    4300274: polySurface2247
+    4300276: polySurface2178
+    4300278: polySurface2179
+    4300280: polySurface2180
+    4300282: polySurface2181
+    4300284: polySurface2182
+    4300286: polySurface2183
+    4300288: polySurface2184
+    4300290: polySurface2185
+    4300292: polySurface2186
+    4300294: polySurface2192
+    4300296: polySurface2193
+    4300298: polySurface2194
+    4300300: polySurface2195
+    4300302: polySurface2196
+    4300304: polySurface2197
+    4300306: polySurface2199
+    4300308: polySurface2200
+    4300310: polySurface2201
+    4300312: polySurface2202
+    4300314: polySurface2203
+    4300316: polySurface2204
+    4300318: polySurface2205
+    4300320: polySurface2206
+    4300322: polySurface2207
+    4300324: polySurface2208
+    4300326: polySurface2209
+    4300328: polySurface2210
+    4300330: polySurface2211
+    4300332: polySurface2212
+    4300334: polySurface2213
+    4300336: polySurface2214
+    4300338: polySurface2215
+    4300340: polySurface2216
+    4300342: polySurface2217
+    4300344: polySurface2218
+    4300346: polySurface2219
+    4300348: polySurface2220
+    4300350: polySurface2221
+    4300352: polySurface2222
+    4300354: polySurface2223
+    4300356: polySurface2224
+    4300358: polySurface2225
+    4300360: polySurface2226
+    4300362: polySurface2227
+    4300364: polySurface2228
+    4300366: polySurface2229
+    4300368: polySurface2230
+    4300370: polySurface2231
+    4300372: polySurface2232
+    4300374: polySurface2233
+    4300376: polySurface2234
+    4300378: polySurface2235
+    4300380: polySurface2236
+    4300382: polySurface2239
+    4300384: polySurface2240
+    4300386: polySurface2241
+    4300388: polySurface2356
+    4300390: polySurface2588
+    4300392: polySurface2357
+    4300394: polySurface2589
+    4300396: polySurface2475
+    4300398: polySurface2476
+    4300400: polySurface2477
+    4300402: polySurface2478
+    4300404: polySurface2480
+    4300406: polySurface2488
+    4300408: polySurface2490
+    4300410: polySurface2500
+    4300412: polySurface2501
+    4300414: polySurface2503
+    4300416: polySurface2504
+    4300418: polySurface2510
+    4300420: polySurface2555
+    4300422: polySurface2560
+    4300424: polySurface2562
+    4300426: polySurface2565
+    4300428: polySurface2566
+    4300430: polySurface2567
+    4300432: polySurface2568
+    4300434: polySurface2572
+    4300436: polySurface2573
+    4300438: polySurface2574
+    4300440: polySurface2575
+    4300442: polySurface2580
+    4300444: polySurface2579
+    4300446: polySurface2578
+    4300448: polySurface2577
+    4300450: polySurface2576
+    4300452: polySurface2581
+    4300454: polySurface2582
+    4300456: polySurface2583
+    4300458: polySurface2584
+    4300460: polySurface2585
+    4300462: polySurface2345
+    4300464: polySurface2354
+    4300466: polySurface2355
+    4300468: polySurface707
+    4300470: polySurface708
+    4300472: polySurface2099
+    4300474: polySurface2100
+    4300476: pCube217
+    4300478: polySurface2125
+    4300480: polySurface2138
+    4300482: polySurface2140
+    4300484: polySurface2149
+    4300486: polySurface2150
+    4300488: polySurface2151
+    4300490: polySurface2117
+    4300492: polySurface2120
+    4300494: polySurface2121
+    4300496: polySurface2122
+    4300498: polySurface2123
+    4300500: polySurface2124
+    4300502: polySurface2126
+    4300504: polySurface2133
+    4300506: polySurface2134
+    4300508: polySurface2135
+    4300510: polySurface2136
+    4300512: polySurface2137
+    4300514: polySurface2139
+    4300516: polySurface2141
+    4300518: polySurface2142
+    4300520: polySurface2143
+    4300522: polySurface2144
+    4300524: polySurface2145
+    4300526: polySurface2146
+    4300528: polySurface2147
+    4300530: polySurface2148
+    4300532: polySurface2152
+    4300534: polySurface2153
+    4300536: polySurface2154
+    4300538: polySurface2155
+    4300540: polySurface2156
+    4300542: polySurface2157
+    4300544: polySurface2158
+    4300546: polySurface2159
+    4300548: polySurface2160
+    4300550: polySurface2161
+    4300552: polySurface2162
+    4300554: polySurface2163
+    4300556: polySurface2164
+    4300558: polySurface2165
+    4300560: polySurface2166
+    4300562: polySurface2170
+    4300564: polySurface2171
+    4300566: polySurface2172
+    4300568: polySurface2176
+    4300570: polySurface2118
+    4300572: polySurface2119
+    4300574: polySurface2168
+    4300576: polySurface2169
+    4300578: polySurface2127
+    4300580: polySurface2590
+    4300582: polySurface2177
+    4300584: polySurface2102
+    4300586: polySurface2106
+    4300588: polySurface2108
+    4300590: polySurface2109
+    4300592: polySurface2110
+    4300594: polySurface2111
+    4300596: polySurface2112
+    4300598: polySurface2113
+    4300600: polySurface2114
+    4300602: polySurface1215
+    4300604: polySurface2591
+    4300606: polySurface2592
+    4300608: polySurface2593
+    4300610: polySurface2594
+    4300612: polySurface2595
+    4300614: polySurface2596
+    4300616: polySurface2597
+    4300618: polySurface2598
+    4300620: polySurface2599
+    4300622: polySurface2600
+    4300624: polySurface2601
+    4300626: polySurface2602
+    4300628: polySurface2603
+    4300630: polySurface2604
+    4300632: pCube218
+    4300634: pCube219
+    4300636: pCube234
+    4300638: pCube235
+    4300640: pCube220
+    4300642: pCube222
+    4300644: pCube236
+    4300646: pCube221
+    4300648: pCube237
+    4300650: pCylinder112
+    4300652: pCylinder113
+    4300654: pCube223
+    4300656: pCube238
+    4300658: pCube224
+    4300660: polySurface2189
+    4300662: polySurface2190
+    4300664: polySurface2191
+    4300666: polySurface2198
+    4300668: polySurface2237
+    4300670: polySurface2268
+    4300672: polySurface2269
+    4300674: polySurface2270
+    4300676: polySurface2271
+    4300678: polySurface2272
+    4300680: polySurface2273
+    4300682: polySurface2274
+    4300684: polySurface2275
+    4300686: polySurface2276
+    4300688: polySurface2277
+    4300690: polySurface2278
+    4300692: polySurface2279
+    4300694: polySurface2280
+    4300696: polySurface2281
+    4300698: polySurface2282
+    4300700: polySurface2283
+    4300702: polySurface2284
+    4300704: polySurface2285
+    4300706: polySurface2286
+    4300708: polySurface2287
+    4300710: polySurface2288
+    4300712: polySurface2289
+    4300714: polySurface2290
+    4300716: polySurface2291
+    4300718: polySurface2292
+    4300720: polySurface2293
+    4300722: polySurface2294
+    4300724: polySurface2295
+    4300726: polySurface2296
+    4300728: polySurface2297
+    4300730: polySurface2298
+    4300732: polySurface2299
+    4300734: polySurface2300
+    4300736: polySurface2301
+    4300738: polySurface2302
+    4300740: polySurface2303
+    4300742: polySurface2304
+    4300744: polySurface2305
+    4300746: polySurface2306
+    4300748: polySurface2307
+    4300750: polySurface2308
+    4300752: polySurface2309
+    4300754: polySurface2310
+    4300756: polySurface2311
+    4300758: polySurface2312
+    4300760: polySurface2313
+    4300762: polySurface2314
+    4300764: polySurface2315
+    4300766: polySurface2316
+    4300768: polySurface2317
+    4300770: polySurface2318
+    4300772: polySurface2319
+    4300774: polySurface2320
+    4300776: polySurface2321
+    4300778: polySurface2322
+    4300780: polySurface2323
+    4300782: polySurface2324
+    4300784: polySurface2325
+    4300786: polySurface2326
+    4300788: polySurface2327
+    4300790: polySurface2328
+    4300792: polySurface2329
+    4300794: polySurface2330
+    4300796: polySurface2331
+    4300798: polySurface2332
+    4300800: polySurface2333
+    4300802: polySurface2334
+    4300804: polySurface2335
+    4300806: polySurface2336
+    4300808: polySurface2337
+    4300810: polySurface2338
+    4300812: polySurface2339
+    4300814: polySurface2340
+    4300816: polySurface2341
+    4300818: polySurface2342
+    4300820: polySurface2343
+    4300822: polySurface2344
+    4300824: polySurface2346
+    4300826: polySurface2347
+    4300828: polySurface2348
+    4300830: polySurface2349
+    4300832: polySurface2350
+    4300834: polySurface2351
+    4300836: polySurface2352
+    4300838: polySurface2353
+    4300840: polySurface2238
+    4300842: pCube225
+    4300844: pPlane2
+    4300846: pPlane3
+    4300848: pPlane4
+    4300850: pPlane5
+    4300852: pPlane6
+    4300854: pPlane7
+    4300856: pPlane8
+    4300858: pPlane9
+    4300860: pPlane10
+    4300862: pCube239
+    4300864: pPlane11
+    4300866: pPlane12
+    4300868: pPlane13
+    4300870: pPlane14
+    4300872: pPlane15
+    4300874: pPlane16
+    4300876: pPlane17
+    4300878: pPlane18
+    4300880: pPlane19
+    4300882: pCube240
+    4300884: pPlane20
+    4300886: pPlane21
+    4300888: pPlane22
+    4300890: pPlane23
+    4300892: pPlane24
+    4300894: pPlane25
+    4300896: pPlane26
+    4300898: pPlane27
+    4300900: pPlane28
+    4300902: pCube241
+    4300904: pPlane29
+    4300906: pPlane30
+    4300908: pPlane31
+    4300910: pPlane32
+    4300912: pPlane33
+    4300914: pPlane34
+    4300916: pPlane35
+    4300918: pPlane36
+    4300920: pPlane37
+    4300922: pCube230
+    4300924: pCube231
+    4300926: pCube228
+    4300928: pCube229
+    4300930: pCube226
+    4300932: pCube227
+    4300934: pCube233
+    4300936: pCube252
+    4300938: polySurface2267
+    4300940: polySurface2472
+    4300942: polySurface2631
+    4300944: polySurface2632
+    4300946: pSphere1
+    4300948: pSphere2
+    4300950: polySurface166
+    4300952: polySurface759
+    4300954: polySurface2374
+    4300956: polySurface2370
+    4300958: polySurface2633
+    4300960: polySurface2634
+    4300962: polySurface2635
+    4300964: polySurface2636
+    4300966: pasted__pPipe1
+    4300968: pasted__pCylinder116
+    4300970: pasted__polySurface2373
+    4300972: pasted__polySurface2372
+    4300974: pasted__polySurface2371
+    4300976: pasted__pCube216
+    4300978: pasted__pCube215
+    4300980: pasted__pCube214
+    4300982: pasted__pCube213
+    4300984: pasted__pCube212
+    4300986: pasted__pCylinder111
+    4300988: pasted__pCube211
+    4300990: pasted__pCube210
+    4300992: pasted__pCube205
+    4300994: pasted__pCube204
+    4300996: pasted__pCylinder110
+    4300998: pasted__pCylinder109
+    4301000: pasted__polySurface2078
+    4301002: pasted__pCylinder108
+    4301004: pasted__pCube200
+    4301006: pasted__polySurface2077
+    4301008: pasted__polySurface2076
+    4301010: pasted__polySurface2075
+    4301012: pasted__polySurface2074
+    4301014: pasted__polySurface2072
+    4301016: pasted__polySurface2068
+    4301018: pasted__polySurface2067
+    4301020: pasted__polySurface2066
+    4301022: pasted__polySurface2064
+    4301024: pasted__polySurface2063
+    4301026: pasted__polySurface2062
+    4301028: pasted__polySurface2061
+    4301030: pasted__polySurface2060
+    4301032: pasted__polySurface2059
+    4301034: pasted__polySurface2058
+    4301036: pasted__polySurface2057
+    4301038: pasted__polySurface2056
+    4301040: pasted__polySurface2055
+    4301042: pasted__polySurface2054
+    4301044: pasted__polySurface2053
+    4301046: pasted__polySurface2052
+    4301048: pasted__polySurface2051
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pCube217
+    13700002: pCube218
+    13700004: pCube219
+    13700006: pCube220
+    13700008: pCube221
+    13700010: pCube222
+    13700012: pCube223
+    13700014: pCube224
+    13700016: pCube225
+    13700018: pCube226
+    13700020: pCube227
+    13700022: pCube228
+    13700024: pCube229
+    13700026: pCube230
+    13700028: pCube231
+    13700030: pCube233
+    13700032: pCube234
+    13700034: pCube235
+    13700036: pCube236
+    13700038: pCube237
+    13700040: pCube238
+    13700042: pCube239
+    13700044: pCube240
+    13700046: pCube241
+    13700048: pCube252
+    13700050: pCylinder112
+    13700052: pCylinder113
+    13700054: polySurface1215
+    13700056: polySurface166
+    13700058: polySurface2099
+    13700060: polySurface2100
+    13700062: polySurface2102
+    13700064: polySurface2106
+    13700066: polySurface2108
+    13700068: polySurface2109
+    13700070: polySurface2110
+    13700072: polySurface2111
+    13700074: polySurface2112
+    13700076: polySurface2113
+    13700078: polySurface2114
+    13700080: polySurface2117
+    13700082: polySurface2118
+    13700084: polySurface2119
+    13700086: polySurface2120
+    13700088: polySurface2121
+    13700090: polySurface2122
+    13700092: polySurface2123
+    13700094: polySurface2124
+    13700096: polySurface2125
+    13700098: polySurface2126
+    13700100: polySurface2127
+    13700102: polySurface2133
+    13700104: polySurface2134
+    13700106: polySurface2135
+    13700108: polySurface2136
+    13700110: polySurface2137
+    13700112: polySurface2138
+    13700114: polySurface2139
+    13700116: polySurface2140
+    13700118: polySurface2141
+    13700120: polySurface2142
+    13700122: polySurface2143
+    13700124: polySurface2144
+    13700126: polySurface2145
+    13700128: polySurface2146
+    13700130: polySurface2147
+    13700132: polySurface2148
+    13700134: polySurface2149
+    13700136: polySurface2150
+    13700138: polySurface2151
+    13700140: polySurface2152
+    13700142: polySurface2153
+    13700144: polySurface2154
+    13700146: polySurface2155
+    13700148: polySurface2156
+    13700150: polySurface2157
+    13700152: polySurface2158
+    13700154: polySurface2159
+    13700156: polySurface2160
+    13700158: polySurface2161
+    13700160: polySurface2162
+    13700162: polySurface2163
+    13700164: polySurface2164
+    13700166: polySurface2165
+    13700168: polySurface2166
+    13700170: polySurface2168
+    13700172: polySurface2169
+    13700174: polySurface2170
+    13700176: polySurface2171
+    13700178: polySurface2172
+    13700180: polySurface2176
+    13700182: polySurface2177
+    13700184: polySurface2178
+    13700186: polySurface2179
+    13700188: polySurface2180
+    13700190: polySurface2181
+    13700192: polySurface2182
+    13700194: polySurface2183
+    13700196: polySurface2184
+    13700198: polySurface2185
+    13700200: polySurface2186
+    13700202: polySurface2189
+    13700204: polySurface2190
+    13700206: polySurface2191
+    13700208: polySurface2192
+    13700210: polySurface2193
+    13700212: polySurface2194
+    13700214: polySurface2195
+    13700216: polySurface2196
+    13700218: polySurface2197
+    13700220: polySurface2198
+    13700222: polySurface2199
+    13700224: polySurface2200
+    13700226: polySurface2201
+    13700228: polySurface2202
+    13700230: polySurface2203
+    13700232: polySurface2204
+    13700234: polySurface2205
+    13700236: polySurface2206
+    13700238: polySurface2207
+    13700240: polySurface2208
+    13700242: polySurface2209
+    13700244: polySurface2210
+    13700246: polySurface2211
+    13700248: polySurface2212
+    13700250: polySurface2213
+    13700252: polySurface2214
+    13700254: polySurface2215
+    13700256: polySurface2216
+    13700258: polySurface2217
+    13700260: polySurface2218
+    13700262: polySurface2219
+    13700264: polySurface2220
+    13700266: polySurface2221
+    13700268: polySurface2222
+    13700270: polySurface2223
+    13700272: polySurface2224
+    13700274: polySurface2225
+    13700276: polySurface2226
+    13700278: polySurface2227
+    13700280: polySurface2228
+    13700282: polySurface2229
+    13700284: polySurface2230
+    13700286: polySurface2231
+    13700288: polySurface2232
+    13700290: polySurface2233
+    13700292: polySurface2234
+    13700294: polySurface2235
+    13700296: polySurface2236
+    13700298: polySurface2237
+    13700300: polySurface2238
+    13700302: polySurface2239
+    13700304: polySurface2240
+    13700306: polySurface2241
+    13700308: polySurface2247
+    13700310: polySurface2267
+    13700312: polySurface2268
+    13700314: polySurface2269
+    13700316: polySurface2270
+    13700318: polySurface2271
+    13700320: polySurface2272
+    13700322: polySurface2273
+    13700324: polySurface2274
+    13700326: polySurface2275
+    13700328: polySurface2276
+    13700330: polySurface2277
+    13700332: polySurface2278
+    13700334: polySurface2279
+    13700336: polySurface2280
+    13700338: polySurface2281
+    13700340: polySurface2282
+    13700342: polySurface2283
+    13700344: polySurface2284
+    13700346: polySurface2285
+    13700348: polySurface2286
+    13700350: polySurface2287
+    13700352: polySurface2288
+    13700354: polySurface2289
+    13700356: polySurface2290
+    13700358: polySurface2291
+    13700360: polySurface2292
+    13700362: polySurface2293
+    13700364: polySurface2294
+    13700366: polySurface2295
+    13700368: polySurface2296
+    13700370: polySurface2297
+    13700372: polySurface2298
+    13700374: polySurface2299
+    13700376: polySurface2300
+    13700378: polySurface2301
+    13700380: polySurface2302
+    13700382: polySurface2303
+    13700384: polySurface2304
+    13700386: polySurface2305
+    13700388: polySurface2306
+    13700390: polySurface2307
+    13700392: polySurface2308
+    13700394: polySurface2309
+    13700396: polySurface2310
+    13700398: polySurface2311
+    13700400: polySurface2312
+    13700402: polySurface2313
+    13700404: polySurface2314
+    13700406: polySurface2315
+    13700408: polySurface2316
+    13700410: polySurface2317
+    13700412: polySurface2318
+    13700414: polySurface2319
+    13700416: polySurface2320
+    13700418: polySurface2321
+    13700420: polySurface2322
+    13700422: polySurface2323
+    13700424: polySurface2324
+    13700426: polySurface2325
+    13700428: polySurface2326
+    13700430: polySurface2327
+    13700432: polySurface2328
+    13700434: polySurface2329
+    13700436: polySurface2330
+    13700438: polySurface2331
+    13700440: polySurface2332
+    13700442: polySurface2333
+    13700444: polySurface2334
+    13700446: polySurface2335
+    13700448: polySurface2336
+    13700450: polySurface2337
+    13700452: polySurface2338
+    13700454: polySurface2339
+    13700456: polySurface2340
+    13700458: polySurface2341
+    13700460: polySurface2342
+    13700462: polySurface2343
+    13700464: polySurface2344
+    13700466: polySurface2345
+    13700468: polySurface2346
+    13700470: polySurface2347
+    13700472: polySurface2348
+    13700474: polySurface2349
+    13700476: polySurface2350
+    13700478: polySurface2351
+    13700480: polySurface2352
+    13700482: polySurface2353
+    13700484: polySurface2354
+    13700486: polySurface2355
+    13700488: polySurface2356
+    13700490: polySurface2357
+    13700492: polySurface2370
+    13700494: polySurface2374
+    13700496: polySurface2472
+    13700498: polySurface2475
+    13700500: polySurface2476
+    13700502: polySurface2477
+    13700504: polySurface2478
+    13700506: polySurface2480
+    13700508: polySurface2488
+    13700510: polySurface2490
+    13700512: polySurface2500
+    13700514: polySurface2501
+    13700516: polySurface2503
+    13700518: polySurface2504
+    13700520: polySurface2510
+    13700522: polySurface2555
+    13700524: polySurface2560
+    13700526: polySurface2562
+    13700528: polySurface2565
+    13700530: polySurface2566
+    13700532: polySurface2567
+    13700534: polySurface2568
+    13700536: polySurface2572
+    13700538: polySurface2573
+    13700540: polySurface2574
+    13700542: polySurface2575
+    13700544: polySurface2576
+    13700546: polySurface2577
+    13700548: polySurface2578
+    13700550: polySurface2579
+    13700552: polySurface2580
+    13700554: polySurface2581
+    13700556: polySurface2582
+    13700558: polySurface2583
+    13700560: polySurface2584
+    13700562: polySurface2585
+    13700564: polySurface2588
+    13700566: polySurface2589
+    13700568: polySurface2590
+    13700570: polySurface2591
+    13700572: polySurface2592
+    13700574: polySurface2593
+    13700576: polySurface2594
+    13700578: polySurface2595
+    13700580: polySurface2596
+    13700582: polySurface2597
+    13700584: polySurface2598
+    13700586: polySurface2599
+    13700588: polySurface2600
+    13700590: polySurface2601
+    13700592: polySurface2602
+    13700594: polySurface2603
+    13700596: polySurface2604
+    13700598: polySurface2631
+    13700600: polySurface2632
+    13700602: polySurface2633
+    13700604: polySurface2634
+    13700606: polySurface2635
+    13700608: polySurface2636
+    13700610: polySurface707
+    13700612: polySurface708
+    13700614: polySurface759
+    13700616: pPlane10
+    13700618: pPlane11
+    13700620: pPlane12
+    13700622: pPlane13
+    13700624: pPlane14
+    13700626: pPlane15
+    13700628: pPlane16
+    13700630: pPlane17
+    13700632: pPlane18
+    13700634: pPlane19
+    13700636: pPlane2
+    13700638: pPlane20
+    13700640: pPlane21
+    13700642: pPlane22
+    13700644: pPlane23
+    13700646: pPlane24
+    13700648: pPlane25
+    13700650: pPlane26
+    13700652: pPlane27
+    13700654: pPlane28
+    13700656: pPlane29
+    13700658: pPlane3
+    13700660: pPlane30
+    13700662: pPlane31
+    13700664: pPlane32
+    13700666: pPlane33
+    13700668: pPlane34
+    13700670: pPlane35
+    13700672: pPlane36
+    13700674: pPlane37
+    13700676: pPlane4
+    13700678: pPlane5
+    13700680: pPlane6
+    13700682: pPlane7
+    13700684: pPlane8
+    13700686: pPlane9
+    13700688: pSphere1
+    13700690: pSphere2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 4
+      lastFrame: 57
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip001 Footsteps
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__player_root
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCube200
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCube204
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCube205
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCube210
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCube211
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCube212
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCube213
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCube214
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCube215
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCube216
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCylinder108
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCylinder109
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCylinder110
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCylinder111
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pCylinder116
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2051
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2052
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2053
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2054
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2055
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2056
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2057
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2058
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2059
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2060
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2061
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2062
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2063
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2064
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2066
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2067
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2068
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2072
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2074
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2075
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2076
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2077
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2078
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2371
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2372
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__polySurface2373
+        weight: 1
+      - path: group/pasted__player_root/pasted__Bip001/pasted__Bip001 Pelvis/pasted__SWORDS/pasted__sword1/pasted__pPipe1
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/polySurface5
+        weight: 1
+      - path: group1/polySurface5/transform14
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/polySurface5 1
+        weight: 1
+      - path: group2/polySurface5 1/transform16
+        weight: 1
+      - path: group6
+        weight: 1
+      - path: group6/pCylinder3
+        weight: 1
+      - path: group6/pCylinder3/transform21
+        weight: 1
+      - path: group7
+        weight: 1
+      - path: group12
+        weight: 1
+      - path: group12/polySurface798
+        weight: 1
+      - path: group12/polySurface798/group41
+        weight: 1
+      - path: group12/polySurface798/group41/polySurface2367
+        weight: 1
+      - path: group12/polySurface798/group41/polySurface2367/transform1323
+        weight: 1
+      - path: group12/polySurface798/group41/polySurface2368
+        weight: 1
+      - path: group12/polySurface798/group41/polySurface2368/transform1321
+        weight: 1
+      - path: group12/polySurface798/group41/polySurface2369
+        weight: 1
+      - path: group12/polySurface798/group41/polySurface2369/transform1322
+        weight: 1
+      - path: group12/polySurface798/group42
+        weight: 1
+      - path: group12/polySurface798/group42/polySurface2367 1
+        weight: 1
+      - path: group12/polySurface798/group42/polySurface2367 1/transform1320
+        weight: 1
+      - path: group12/polySurface798/group42/polySurface2368 1
+        weight: 1
+      - path: group12/polySurface798/group42/polySurface2368 1/transform1318
+        weight: 1
+      - path: group12/polySurface798/group42/polySurface2369 1
+        weight: 1
+      - path: group12/polySurface798/group42/polySurface2369 1/transform1319
+        weight: 1
+      - path: group12/polySurface798/polySurface2358
+        weight: 1
+      - path: group12/polySurface798/polySurface2358/transform1331
+        weight: 1
+      - path: group12/polySurface798/polySurface2359
+        weight: 1
+      - path: group12/polySurface798/polySurface2359/transform1330
+        weight: 1
+      - path: group12/polySurface798/polySurface2360
+        weight: 1
+      - path: group12/polySurface798/polySurface2360/transform1329
+        weight: 1
+      - path: group12/polySurface798/polySurface2361
+        weight: 1
+      - path: group12/polySurface798/polySurface2361/transform1328
+        weight: 1
+      - path: group12/polySurface798/polySurface2362
+        weight: 1
+      - path: group12/polySurface798/polySurface2362/transform1327
+        weight: 1
+      - path: group12/polySurface798/polySurface2363
+        weight: 1
+      - path: group12/polySurface798/polySurface2363/transform1326
+        weight: 1
+      - path: group12/polySurface798/polySurface2365
+        weight: 1
+      - path: group12/polySurface798/polySurface2365/transform1325
+        weight: 1
+      - path: group12/polySurface798/polySurface2366
+        weight: 1
+      - path: group12/polySurface798/polySurface2366/transform1324
+        weight: 1
+      - path: group12/polySurface798/transform1315
+        weight: 1
+      - path: group14
+        weight: 1
+      - path: group14/group6 1
+        weight: 1
+      - path: group14/group6 1/polySurface764
+        weight: 1
+      - path: group14/group6 1/polySurface766
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2248
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2248/transform1313
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2251
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2251/transform1312
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2252
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2252/transform1311
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2253
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2253/transform1310
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2254
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2254/transform1309
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2256
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2256/transform1308
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2257
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2257/transform1307
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2258
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2258/transform1306
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2259
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2259/transform1305
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2260
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2260/transform1304
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2261
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2261/transform1303
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2262
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2262/transform1302
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2263
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2263/transform1301
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2264
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2264/transform1300
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2265
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2265/transform1299
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2266
+        weight: 1
+      - path: group14/group6 1/polySurface766/polySurface2266/transform1298
+        weight: 1
+      - path: group14/group6 1/polySurface766/transform1297
+        weight: 1
+      - path: group15
+        weight: 1
+      - path: group15/group6 2
+        weight: 1
+      - path: group15/group6 2/polySurface764 1
+        weight: 1
+      - path: group16
+        weight: 1
+      - path: group17
+        weight: 1
+      - path: group19
+        weight: 1
+      - path: group20
+        weight: 1
+      - path: group21
+        weight: 1
+      - path: group22
+        weight: 1
+      - path: group25
+        weight: 1
+      - path: group26
+        weight: 1
+      - path: group28
+        weight: 1
+      - path: group28/group27
+        weight: 1
+      - path: group36
+        weight: 1
+      - path: group36/group34
+        weight: 1
+      - path: group36/group34/group33
+        weight: 1
+      - path: group36/group35
+        weight: 1
+      - path: group36/group35/group33 1
+        weight: 1
+      - path: group37
+        weight: 1
+      - path: group37/group34 1
+        weight: 1
+      - path: group37/group34 1/group33 2
+        weight: 1
+      - path: group37/group35 1
+        weight: 1
+      - path: group37/group35 1/group33 3
+        weight: 1
+      - path: group40
+        weight: 1
+      - path: group45
+        weight: 1
+      - path: group45/group5
+        weight: 1
+      - path: group46
+        weight: 1
+      - path: group46/group5 1
+        weight: 1
+      - path: group50
+        weight: 1
+      - path: group51
+        weight: 1
+      - path: group53
+        weight: 1
+      - path: group54
+        weight: 1
+      - path: group55
+        weight: 1
+      - path: group56
+        weight: 1
+      - path: group60
+        weight: 1
+      - path: group60/group59
+        weight: 1
+      - path: group61
+        weight: 1
+      - path: group61/group59 1
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/transform15
+        weight: 1
+      - path: pCube6
+        weight: 1
+      - path: pCube6/transform5
+        weight: 1
+      - path: pCube15
+        weight: 1
+      - path: pCube15/transform1
+        weight: 1
+      - path: pCube16
+        weight: 1
+      - path: pCube16/transform3
+        weight: 1
+      - path: pCube17
+        weight: 1
+      - path: pCube17/transform2
+        weight: 1
+      - path: pCube20
+        weight: 1
+      - path: pCube20/transform19
+        weight: 1
+      - path: pCube192
+        weight: 1
+      - path: pCube192/transform1068
+        weight: 1
+      - path: pCube193
+        weight: 1
+      - path: pCube193/transform1069
+        weight: 1
+      - path: pCube194
+        weight: 1
+      - path: pCube194/transform1070
+        weight: 1
+      - path: pCube195
+        weight: 1
+      - path: pCube195/transform1071
+        weight: 1
+      - path: pCube196
+        weight: 1
+      - path: pCube196/transform1072
+        weight: 1
+      - path: pCube197
+        weight: 1
+      - path: pCube197/transform1073
+        weight: 1
+      - path: pCube232
+        weight: 1
+      - path: pCube232/transform1317
+        weight: 1
+      - path: pCylinder9
+        weight: 1
+      - path: pCylinder9/transform9
+        weight: 1
+      - path: pCylinder10
+        weight: 1
+      - path: pCylinder10/transform8
+        weight: 1
+      - path: pCylinder11
+        weight: 1
+      - path: pCylinder11/transform10
+        weight: 1
+      - path: pCylinder12
+        weight: 1
+      - path: pCylinder12/transform11
+        weight: 1
+      - path: pCylinder13
+        weight: 1
+      - path: pCylinder13/transform12
+        weight: 1
+      - path: pCylinder14
+        weight: 1
+      - path: pCylinder14/transform13
+        weight: 1
+      - path: pCylinder16
+        weight: 1
+      - path: pCylinder16/transform18
+        weight: 1
+      - path: pCylinder115
+        weight: 1
+      - path: pCylinder115/transform1316
+        weight: 1
+      - path: player_root
+        weight: 1
+      - path: player_root/Bip001
+        weight: 1
+      - path: player_root/Bip001/Bip001 L Thigh
+        weight: 1
+      - path: player_root/Bip001/Bip001 L Thigh/Bip001 L Calf
+        weight: 1
+      - path: player_root/Bip001/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot
+        weight: 1
+      - path: player_root/Bip001/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001
+          L Toe0
+        weight: 1
+      - path: player_root/Bip001/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001
+          L Toe0/Bip001 L Toe0Nub
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCube200
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCube204
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCube205
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCube210
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCube211
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCube212
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCube213
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCube214
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCube215
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCube216
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCylinder108
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCylinder109
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCylinder110
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCylinder111
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pCylinder116
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2051
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2052
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2053
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2054
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2055
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2056
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2057
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2058
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2059
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2060
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2061
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2062
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2063
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2064
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2066
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2067
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2068
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2072
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2074
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2075
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2076
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2077
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2078
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2371
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2372
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/polySurface2373
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword1/pPipe1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCube242
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCube243
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCube244
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCube245
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCube246
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCube247
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCube248
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCube249
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCube250
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCube251
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCylinder117
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCylinder118
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCylinder119
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCylinder120
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pCylinder121
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2605
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2606
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2607
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2608
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2609
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2610
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2611
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2612
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2613
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2614
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2615
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2616
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2617
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2618
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2619
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2620
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2621
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2622
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2623
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2624
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2625
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2626
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2627
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2628
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2629
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/polySurface2630
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/SWORDS/sword2/pPipe2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Pelvis/tail
+        weight: 1
+      - path: player_root/Bip001/Bip001 R Thigh
+        weight: 1
+      - path: player_root/Bip001/Bip001 R Thigh/Bip001 R Calf
+        weight: 1
+      - path: player_root/Bip001/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot
+        weight: 1
+      - path: player_root/Bip001/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001
+          R Toe0
+        weight: 1
+      - path: player_root/Bip001/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001
+          R Toe0/Bip001 R Toe0Nub
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head/Bip001
+          HeadNub
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001
+          L UpperArm
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001
+          L UpperArm/Bip001 L Forearm
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001
+          L UpperArm/Bip001 L Forearm/Bip001 L Hand
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001
+          L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001
+          L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0/Bip001 L Finger01
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001
+          L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0/Bip001 L Finger01/Bip001
+          L Finger0Nub
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001
+          L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001
+          L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger1/Bip001 L Finger11
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001
+          L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger1/Bip001 L Finger11/Bip001
+          L Finger1Nub
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001
+          L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001
+          L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger2/Bip001 L Finger21
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001
+          L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger2/Bip001 L Finger21/Bip001
+          L Finger2Nub
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0/Bip001 R Finger01
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0/Bip001 R Finger01/Bip001
+          R Finger0Nub
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger1/Bip001 R Finger11
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger1/Bip001 R Finger11/Bip001
+          R Finger1Nub
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger2/Bip001 R Finger21
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger2/Bip001 R Finger21/Bip001
+          R Finger2Nub
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/curve1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube3
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube4
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube5
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube7
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube8
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube9
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube10
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube11
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube12
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube13
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube14
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube18
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube19
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube21
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube22
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube23
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube24
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube25
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube26
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube27
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube28
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube29
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCube30
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder4
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder5
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder6
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder7
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder15
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder17
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder18
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder19
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder20
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder21
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder23
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder27
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder28
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder29
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder30
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder31
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder33
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder34
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder35
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/pCylinder36
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/polySurface4
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/polySurface7
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/polySurface8
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/polySurface9
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_A_1_1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_A_1_1/transform1339
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_A_1_2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_A_1_2/transform1342
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_B_1_1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_B_1_1/transform1337
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_B_1_2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_B_1_2/transform1344
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_E_1_1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_E_1_1/transform1336
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_E_1_2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_E_1_2/transform1345
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_E_2_1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_E_2_1/transform1338
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_E_2_2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_E_2_2/transform1343
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_L_1_1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_L_1_1/transform1333
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_L_1_2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_L_1_2/transform1348
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_O_1_1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_O_1_1/transform1334
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_O_1_2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_O_1_2/transform1347
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_R_1_1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_R_1_1/transform1340
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_R_1_2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_R_1_2/transform1341
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_V_1_1
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_V_1_1/transform1335
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_V_1_2
+        weight: 1
+      - path: player_root/Bip001/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001
+          R UpperArm/Bip001 R Forearm/Bip001 R Hand/gunGood/Trim_Char_V_1_2/transform1346
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface1/transform4
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface2/transform6
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform7
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform17
+        weight: 1
+      - path: polySurface1104
+        weight: 1
+      - path: polySurface1106
+        weight: 1
+      - path: polySurface1106/polySurface1107
+        weight: 1
+      - path: polySurface1106/polySurface1107/transform1283
+        weight: 1
+      - path: polySurface1106/polySurface1108
+        weight: 1
+      - path: polySurface1106/polySurface1108/transform1282
+        weight: 1
+      - path: polySurface1106/polySurface1109
+        weight: 1
+      - path: polySurface1106/polySurface1109/transform1281
+        weight: 1
+      - path: polySurface1106/polySurface1110
+        weight: 1
+      - path: polySurface1106/polySurface1110/transform1280
+        weight: 1
+      - path: polySurface1106/polySurface1111
+        weight: 1
+      - path: polySurface1106/polySurface1111/transform1279
+        weight: 1
+      - path: polySurface1106/polySurface1112
+        weight: 1
+      - path: polySurface1106/polySurface1112/transform1278
+        weight: 1
+      - path: polySurface1106/polySurface1113
+        weight: 1
+      - path: polySurface1106/polySurface1113/transform1277
+        weight: 1
+      - path: polySurface1106/polySurface1114
+        weight: 1
+      - path: polySurface1106/polySurface1114/transform1276
+        weight: 1
+      - path: polySurface1106/polySurface1115
+        weight: 1
+      - path: polySurface1106/polySurface1115/transform1275
+        weight: 1
+      - path: polySurface1106/polySurface1116
+        weight: 1
+      - path: polySurface1106/polySurface1116/transform1274
+        weight: 1
+      - path: polySurface1106/polySurface1117
+        weight: 1
+      - path: polySurface1106/polySurface1117/transform1273
+        weight: 1
+      - path: polySurface1106/polySurface1118
+        weight: 1
+      - path: polySurface1106/polySurface1118/transform1272
+        weight: 1
+      - path: polySurface1106/polySurface1119
+        weight: 1
+      - path: polySurface1106/polySurface1119/transform1271
+        weight: 1
+      - path: polySurface1106/polySurface1120
+        weight: 1
+      - path: polySurface1106/polySurface1120/transform1270
+        weight: 1
+      - path: polySurface1106/polySurface1121
+        weight: 1
+      - path: polySurface1106/polySurface1121/transform1269
+        weight: 1
+      - path: polySurface1106/polySurface1122
+        weight: 1
+      - path: polySurface1106/polySurface1122/transform1268
+        weight: 1
+      - path: polySurface1106/polySurface1123
+        weight: 1
+      - path: polySurface1106/polySurface1123/transform1267
+        weight: 1
+      - path: polySurface1106/polySurface1124
+        weight: 1
+      - path: polySurface1106/polySurface1124/transform1266
+        weight: 1
+      - path: polySurface1106/polySurface1125
+        weight: 1
+      - path: polySurface1106/polySurface1125/transform1265
+        weight: 1
+      - path: polySurface1106/polySurface1126
+        weight: 1
+      - path: polySurface1106/polySurface1126/transform1264
+        weight: 1
+      - path: polySurface1106/polySurface1127
+        weight: 1
+      - path: polySurface1106/polySurface1127/transform1263
+        weight: 1
+      - path: polySurface1106/polySurface1128
+        weight: 1
+      - path: polySurface1106/polySurface1128/transform1262
+        weight: 1
+      - path: polySurface1106/polySurface1129
+        weight: 1
+      - path: polySurface1106/polySurface1129/transform1261
+        weight: 1
+      - path: polySurface1106/polySurface1130
+        weight: 1
+      - path: polySurface1106/polySurface1130/transform1260
+        weight: 1
+      - path: polySurface1106/polySurface1131
+        weight: 1
+      - path: polySurface1106/polySurface1131/transform1259
+        weight: 1
+      - path: polySurface1106/polySurface1132
+        weight: 1
+      - path: polySurface1106/polySurface1132/transform1258
+        weight: 1
+      - path: polySurface1106/polySurface1133
+        weight: 1
+      - path: polySurface1106/polySurface1133/transform1257
+        weight: 1
+      - path: polySurface1106/polySurface1134
+        weight: 1
+      - path: polySurface1106/polySurface1134/transform1256
+        weight: 1
+      - path: polySurface1106/polySurface1135
+        weight: 1
+      - path: polySurface1106/polySurface1135/transform1255
+        weight: 1
+      - path: polySurface1106/polySurface1136
+        weight: 1
+      - path: polySurface1106/polySurface1136/transform1254
+        weight: 1
+      - path: polySurface1106/polySurface1137
+        weight: 1
+      - path: polySurface1106/polySurface1137/transform1253
+        weight: 1
+      - path: polySurface1106/polySurface1138
+        weight: 1
+      - path: polySurface1106/polySurface1138/transform1252
+        weight: 1
+      - path: polySurface1106/polySurface1139
+        weight: 1
+      - path: polySurface1106/polySurface1139/transform1251
+        weight: 1
+      - path: polySurface1106/polySurface1140
+        weight: 1
+      - path: polySurface1106/polySurface1140/transform1250
+        weight: 1
+      - path: polySurface1106/polySurface1141
+        weight: 1
+      - path: polySurface1106/polySurface1141/transform1249
+        weight: 1
+      - path: polySurface1106/polySurface1142
+        weight: 1
+      - path: polySurface1106/polySurface1142/transform1248
+        weight: 1
+      - path: polySurface1106/polySurface1143
+        weight: 1
+      - path: polySurface1106/polySurface1143/transform1075
+        weight: 1
+      - path: polySurface1106/polySurface1145
+        weight: 1
+      - path: polySurface1106/polySurface1145/transform1247
+        weight: 1
+      - path: polySurface1106/polySurface1147
+        weight: 1
+      - path: polySurface1106/polySurface1147/transform1246
+        weight: 1
+      - path: polySurface1106/polySurface1148
+        weight: 1
+      - path: polySurface1106/polySurface1148/transform1245
+        weight: 1
+      - path: polySurface1106/polySurface1149
+        weight: 1
+      - path: polySurface1106/polySurface1149/transform1286
+        weight: 1
+      - path: polySurface1106/polySurface1150
+        weight: 1
+      - path: polySurface1106/polySurface1150/transform1244
+        weight: 1
+      - path: polySurface1106/polySurface1151
+        weight: 1
+      - path: polySurface1106/polySurface1151/transform1243
+        weight: 1
+      - path: polySurface1106/polySurface1152
+        weight: 1
+      - path: polySurface1106/polySurface1152/transform1242
+        weight: 1
+      - path: polySurface1106/polySurface1153
+        weight: 1
+      - path: polySurface1106/polySurface1153/transform1241
+        weight: 1
+      - path: polySurface1106/polySurface1154
+        weight: 1
+      - path: polySurface1106/polySurface1154/transform1240
+        weight: 1
+      - path: polySurface1106/polySurface1155
+        weight: 1
+      - path: polySurface1106/polySurface1155/transform1239
+        weight: 1
+      - path: polySurface1106/polySurface1156
+        weight: 1
+      - path: polySurface1106/polySurface1156/transform1238
+        weight: 1
+      - path: polySurface1106/polySurface1157
+        weight: 1
+      - path: polySurface1106/polySurface1157/transform1285
+        weight: 1
+      - path: polySurface1106/polySurface1158
+        weight: 1
+      - path: polySurface1106/polySurface1158/transform1237
+        weight: 1
+      - path: polySurface1106/polySurface1159
+        weight: 1
+      - path: polySurface1106/polySurface1159/transform1236
+        weight: 1
+      - path: polySurface1106/polySurface1160
+        weight: 1
+      - path: polySurface1106/polySurface1160/transform1235
+        weight: 1
+      - path: polySurface1106/polySurface1161
+        weight: 1
+      - path: polySurface1106/polySurface1161/transform1234
+        weight: 1
+      - path: polySurface1106/polySurface1162
+        weight: 1
+      - path: polySurface1106/polySurface1162/transform1233
+        weight: 1
+      - path: polySurface1106/polySurface1163
+        weight: 1
+      - path: polySurface1106/polySurface1163/transform1232
+        weight: 1
+      - path: polySurface1106/polySurface1164
+        weight: 1
+      - path: polySurface1106/polySurface1164/transform1231
+        weight: 1
+      - path: polySurface1106/polySurface1165
+        weight: 1
+      - path: polySurface1106/polySurface1165/transform1230
+        weight: 1
+      - path: polySurface1106/polySurface1166
+        weight: 1
+      - path: polySurface1106/polySurface1166/transform1229
+        weight: 1
+      - path: polySurface1106/polySurface1167
+        weight: 1
+      - path: polySurface1106/polySurface1167/transform1228
+        weight: 1
+      - path: polySurface1106/polySurface1168
+        weight: 1
+      - path: polySurface1106/polySurface1168/transform1227
+        weight: 1
+      - path: polySurface1106/polySurface1169
+        weight: 1
+      - path: polySurface1106/polySurface1169/transform1226
+        weight: 1
+      - path: polySurface1106/polySurface1170
+        weight: 1
+      - path: polySurface1106/polySurface1170/transform1225
+        weight: 1
+      - path: polySurface1106/polySurface1171
+        weight: 1
+      - path: polySurface1106/polySurface1171/transform1224
+        weight: 1
+      - path: polySurface1106/polySurface1172
+        weight: 1
+      - path: polySurface1106/polySurface1172/transform1223
+        weight: 1
+      - path: polySurface1106/polySurface1173
+        weight: 1
+      - path: polySurface1106/polySurface1173/transform1222
+        weight: 1
+      - path: polySurface1106/polySurface1174
+        weight: 1
+      - path: polySurface1106/polySurface1174/transform1221
+        weight: 1
+      - path: polySurface1106/polySurface1175
+        weight: 1
+      - path: polySurface1106/polySurface1175/transform1220
+        weight: 1
+      - path: polySurface1106/polySurface1176
+        weight: 1
+      - path: polySurface1106/polySurface1176/transform1219
+        weight: 1
+      - path: polySurface1106/polySurface1177
+        weight: 1
+      - path: polySurface1106/polySurface1177/transform1218
+        weight: 1
+      - path: polySurface1106/polySurface1178
+        weight: 1
+      - path: polySurface1106/polySurface1178/transform1217
+        weight: 1
+      - path: polySurface1106/polySurface1179
+        weight: 1
+      - path: polySurface1106/polySurface1179/transform1216
+        weight: 1
+      - path: polySurface1106/polySurface1180
+        weight: 1
+      - path: polySurface1106/polySurface1180/transform1215
+        weight: 1
+      - path: polySurface1106/polySurface1181
+        weight: 1
+      - path: polySurface1106/polySurface1181/transform1214
+        weight: 1
+      - path: polySurface1106/polySurface1182
+        weight: 1
+      - path: polySurface1106/polySurface1182/transform1213
+        weight: 1
+      - path: polySurface1106/polySurface1183
+        weight: 1
+      - path: polySurface1106/polySurface1183/transform1212
+        weight: 1
+      - path: polySurface1106/polySurface1184
+        weight: 1
+      - path: polySurface1106/polySurface1184/transform1211
+        weight: 1
+      - path: polySurface1106/polySurface1185
+        weight: 1
+      - path: polySurface1106/polySurface1185/transform1065
+        weight: 1
+      - path: polySurface1106/polySurface1186
+        weight: 1
+      - path: polySurface1106/polySurface1186/transform1062
+        weight: 1
+      - path: polySurface1106/polySurface1187
+        weight: 1
+      - path: polySurface1106/polySurface1187/transform1063
+        weight: 1
+      - path: polySurface1106/polySurface1188
+        weight: 1
+      - path: polySurface1106/polySurface1188/transform1061
+        weight: 1
+      - path: polySurface1106/polySurface1191
+        weight: 1
+      - path: polySurface1106/polySurface1191/transform1066
+        weight: 1
+      - path: polySurface1106/polySurface1192
+        weight: 1
+      - path: polySurface1106/polySurface1192/transform1064
+        weight: 1
+      - path: polySurface1106/polySurface1193
+        weight: 1
+      - path: polySurface1106/polySurface1193/transform1067
+        weight: 1
+      - path: polySurface1106/polySurface1214
+        weight: 1
+      - path: polySurface1106/polySurface1214/transform1210
+        weight: 1
+      - path: polySurface1106/polySurface1217
+        weight: 1
+      - path: polySurface1106/polySurface1217/transform1209
+        weight: 1
+      - path: polySurface1106/polySurface1218
+        weight: 1
+      - path: polySurface1106/polySurface1218/transform1208
+        weight: 1
+      - path: polySurface1106/polySurface1219
+        weight: 1
+      - path: polySurface1106/polySurface1219/transform1207
+        weight: 1
+      - path: polySurface1106/polySurface1220
+        weight: 1
+      - path: polySurface1106/polySurface1220/transform1206
+        weight: 1
+      - path: polySurface1106/polySurface1221
+        weight: 1
+      - path: polySurface1106/polySurface1221/transform1205
+        weight: 1
+      - path: polySurface1106/polySurface1222
+        weight: 1
+      - path: polySurface1106/polySurface1222/transform1204
+        weight: 1
+      - path: polySurface1106/polySurface1871
+        weight: 1
+      - path: polySurface1106/polySurface1871/transform1203
+        weight: 1
+      - path: polySurface1106/polySurface1872
+        weight: 1
+      - path: polySurface1106/polySurface1872/transform1202
+        weight: 1
+      - path: polySurface1867
+        weight: 1
+      - path: polySurface1867/transform1201
+        weight: 1
+      - path: polySurface1868
+        weight: 1
+      - path: polySurface1868/transform1200
+        weight: 1
+      - path: polySurface1869
+        weight: 1
+      - path: polySurface1869/transform1199
+        weight: 1
+      - path: polySurface1870
+        weight: 1
+      - path: polySurface1870/transform1198
+        weight: 1
+      - path: polySurface1914
+        weight: 1
+      - path: polySurface1914/transform1197
+        weight: 1
+      - path: polySurface1915
+        weight: 1
+      - path: polySurface1915/transform1196
+        weight: 1
+      - path: polySurface1916
+        weight: 1
+      - path: polySurface1916/transform1074
+        weight: 1
+      - path: polySurface1917
+        weight: 1
+      - path: polySurface1917/transform1195
+        weight: 1
+      - path: polySurface1984
+        weight: 1
+      - path: polySurface1984/group29
+        weight: 1
+      - path: polySurface1984/group30
+        weight: 1
+      - path: polySurface1984/group30/group31
+        weight: 1
+      - path: polySurface1984/group30/group32
+        weight: 1
+      - path: polySurface1986
+        weight: 1
+      - path: polySurface1986/transform1284
+        weight: 1
+      - path: polySurface1987
+        weight: 1
+      - path: polySurface1987/group62
+        weight: 1
+      - path: polySurface1987/group62/group65
+        weight: 1
+      - path: polySurface1987/group62/group65/group66
+        weight: 1
+      - path: polySurface1987/transform1332
+        weight: 1
+      - path: polySurface2079
+        weight: 1
+      - path: polySurface2079/transform1314
+        weight: 1
+      - path: polySurface2101
+        weight: 1
+      - path: polySurface2101/group24
+        weight: 1
+      - path: polySurface2101/group24/group38
+        weight: 1
+      - path: polySurface2101/group24/group39
+        weight: 1
+      - path: polySurface2586
+        weight: 1
+      - path: polySurface2587
+        weight: 1
+      - path: ROBOT_GROUP
+        weight: 1
+      - path: ROBOT_GROUP/pCube217
+        weight: 1
+      - path: ROBOT_GROUP/pCube218
+        weight: 1
+      - path: ROBOT_GROUP/pCube219
+        weight: 1
+      - path: ROBOT_GROUP/pCube220
+        weight: 1
+      - path: ROBOT_GROUP/pCube221
+        weight: 1
+      - path: ROBOT_GROUP/pCube222
+        weight: 1
+      - path: ROBOT_GROUP/pCube223
+        weight: 1
+      - path: ROBOT_GROUP/pCube224
+        weight: 1
+      - path: ROBOT_GROUP/pCube225
+        weight: 1
+      - path: ROBOT_GROUP/pCube226
+        weight: 1
+      - path: ROBOT_GROUP/pCube227
+        weight: 1
+      - path: ROBOT_GROUP/pCube228
+        weight: 1
+      - path: ROBOT_GROUP/pCube229
+        weight: 1
+      - path: ROBOT_GROUP/pCube230
+        weight: 1
+      - path: ROBOT_GROUP/pCube231
+        weight: 1
+      - path: ROBOT_GROUP/pCube233
+        weight: 1
+      - path: ROBOT_GROUP/pCube234
+        weight: 1
+      - path: ROBOT_GROUP/pCube235
+        weight: 1
+      - path: ROBOT_GROUP/pCube236
+        weight: 1
+      - path: ROBOT_GROUP/pCube237
+        weight: 1
+      - path: ROBOT_GROUP/pCube238
+        weight: 1
+      - path: ROBOT_GROUP/pCube239
+        weight: 1
+      - path: ROBOT_GROUP/pCube240
+        weight: 1
+      - path: ROBOT_GROUP/pCube241
+        weight: 1
+      - path: ROBOT_GROUP/pCube252
+        weight: 1
+      - path: ROBOT_GROUP/pCylinder112
+        weight: 1
+      - path: ROBOT_GROUP/pCylinder113
+        weight: 1
+      - path: ROBOT_GROUP/polySurface166
+        weight: 1
+      - path: ROBOT_GROUP/polySurface707
+        weight: 1
+      - path: ROBOT_GROUP/polySurface708
+        weight: 1
+      - path: ROBOT_GROUP/polySurface759
+        weight: 1
+      - path: ROBOT_GROUP/polySurface1215
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2099
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2100
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2102
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2106
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2108
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2109
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2110
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2111
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2112
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2113
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2114
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2117
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2118
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2119
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2120
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2121
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2122
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2123
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2124
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2125
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2126
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2127
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2133
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2134
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2135
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2136
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2137
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2138
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2139
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2140
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2141
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2142
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2143
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2144
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2145
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2146
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2147
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2148
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2149
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2150
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2151
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2152
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2153
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2154
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2155
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2156
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2157
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2158
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2159
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2160
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2161
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2162
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2163
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2164
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2165
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2166
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2168
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2169
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2170
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2171
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2172
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2176
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2177
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2178
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2179
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2180
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2181
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2182
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2183
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2184
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2185
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2186
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2189
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2190
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2191
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2192
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2193
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2194
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2195
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2196
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2197
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2198
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2199
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2200
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2201
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2202
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2203
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2204
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2205
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2206
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2207
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2208
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2209
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2210
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2211
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2212
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2213
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2214
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2215
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2216
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2217
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2218
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2219
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2220
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2221
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2222
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2223
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2224
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2225
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2226
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2227
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2228
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2229
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2230
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2231
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2232
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2233
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2234
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2235
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2236
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2237
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2238
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2239
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2240
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2241
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2247
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2267
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2268
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2269
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2270
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2271
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2272
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2273
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2274
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2275
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2276
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2277
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2278
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2279
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2280
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2281
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2282
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2283
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2284
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2285
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2286
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2287
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2288
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2289
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2290
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2291
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2292
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2293
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2294
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2295
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2296
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2297
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2298
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2299
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2300
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2301
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2302
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2303
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2304
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2305
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2306
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2307
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2308
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2309
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2310
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2311
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2312
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2313
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2314
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2315
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2316
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2317
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2318
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2319
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2320
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2321
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2322
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2323
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2324
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2325
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2326
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2327
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2328
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2329
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2330
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2331
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2332
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2333
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2334
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2335
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2336
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2337
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2338
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2339
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2340
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2341
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2342
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2343
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2344
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2345
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2346
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2347
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2348
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2349
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2350
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2351
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2352
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2353
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2354
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2355
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2356
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2357
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2370
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2374
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2472
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2475
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2476
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2477
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2478
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2480
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2488
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2490
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2500
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2501
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2503
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2504
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2510
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2555
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2560
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2562
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2565
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2566
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2567
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2568
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2572
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2573
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2574
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2575
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2576
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2577
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2578
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2579
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2580
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2581
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2582
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2583
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2584
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2585
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2588
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2589
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2590
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2591
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2592
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2593
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2594
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2595
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2596
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2597
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2598
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2599
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2600
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2601
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2602
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2603
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2604
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2631
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2632
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2633
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2634
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2635
+        weight: 1
+      - path: ROBOT_GROUP/polySurface2636
+        weight: 1
+      - path: ROBOT_GROUP/pPlane2
+        weight: 1
+      - path: ROBOT_GROUP/pPlane3
+        weight: 1
+      - path: ROBOT_GROUP/pPlane4
+        weight: 1
+      - path: ROBOT_GROUP/pPlane5
+        weight: 1
+      - path: ROBOT_GROUP/pPlane6
+        weight: 1
+      - path: ROBOT_GROUP/pPlane7
+        weight: 1
+      - path: ROBOT_GROUP/pPlane8
+        weight: 1
+      - path: ROBOT_GROUP/pPlane9
+        weight: 1
+      - path: ROBOT_GROUP/pPlane10
+        weight: 1
+      - path: ROBOT_GROUP/pPlane11
+        weight: 1
+      - path: ROBOT_GROUP/pPlane12
+        weight: 1
+      - path: ROBOT_GROUP/pPlane13
+        weight: 1
+      - path: ROBOT_GROUP/pPlane14
+        weight: 1
+      - path: ROBOT_GROUP/pPlane15
+        weight: 1
+      - path: ROBOT_GROUP/pPlane16
+        weight: 1
+      - path: ROBOT_GROUP/pPlane17
+        weight: 1
+      - path: ROBOT_GROUP/pPlane18
+        weight: 1
+      - path: ROBOT_GROUP/pPlane19
+        weight: 1
+      - path: ROBOT_GROUP/pPlane20
+        weight: 1
+      - path: ROBOT_GROUP/pPlane21
+        weight: 1
+      - path: ROBOT_GROUP/pPlane22
+        weight: 1
+      - path: ROBOT_GROUP/pPlane23
+        weight: 1
+      - path: ROBOT_GROUP/pPlane24
+        weight: 1
+      - path: ROBOT_GROUP/pPlane25
+        weight: 1
+      - path: ROBOT_GROUP/pPlane26
+        weight: 1
+      - path: ROBOT_GROUP/pPlane27
+        weight: 1
+      - path: ROBOT_GROUP/pPlane28
+        weight: 1
+      - path: ROBOT_GROUP/pPlane29
+        weight: 1
+      - path: ROBOT_GROUP/pPlane30
+        weight: 1
+      - path: ROBOT_GROUP/pPlane31
+        weight: 1
+      - path: ROBOT_GROUP/pPlane32
+        weight: 1
+      - path: ROBOT_GROUP/pPlane33
+        weight: 1
+      - path: ROBOT_GROUP/pPlane34
+        weight: 1
+      - path: ROBOT_GROUP/pPlane35
+        weight: 1
+      - path: ROBOT_GROUP/pPlane36
+        weight: 1
+      - path: ROBOT_GROUP/pPlane37
+        weight: 1
+      - path: ROBOT_GROUP/pSphere1
+        weight: 1
+      - path: ROBOT_GROUP/pSphere2
+        weight: 1
+      - path: transform20
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
